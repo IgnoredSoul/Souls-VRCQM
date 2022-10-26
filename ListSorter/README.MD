@@ -1,3 +1,2 @@
-I will clean this shit up later.
-
-Also I'll replace every file with the inactive game object
+# Info
+List of worlds containing their game objects and udon events
