@@ -1,1 +1,2 @@
-# Mods I've made using Old UI and New UI
+# Info
+Some shit I've made regarding VRChat. From mods to scripts.
