@@ -1,6 +1,21 @@
+!ftraceLightmaps
 Audio/Announcer Audio
 Audio/Music Audio
 Audio/Sounds Audio
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
 Crates/Large Crates/Crate Large (1)/Crate/Locked Sound
 Crates/Large Crates/Crate Large (1)/Crate/Mesh/Box
 Crates/Large Crates/Crate Large (1)/Crate/Mesh/Lid
@@ -112,26 +127,6 @@ Crates/Small Crates/Crate Small (2)/Crate/Mesh/Box
 Crates/Small Crates/Crate Small (2)/Crate/Mesh/Lid
 Crates/Small Crates/Crate Small (2)/Crate/Open Sound
 Crates/Small Crates/Crate Small (2)/Crate/Unlock Display/Trigger
-Crates/Small Crates/Crate Small (3)/Crate/Locked Sound
-Crates/Small Crates/Crate Small (3)/Crate/Mesh/Box
-Crates/Small Crates/Crate Small (3)/Crate/Mesh/Lid
-Crates/Small Crates/Crate Small (3)/Crate/Open Sound
-Crates/Small Crates/Crate Small (3)/Crate/Unlock Display/Trigger
-Crates/Small Crates/Crate Small (4)/Crate/Locked Sound
-Crates/Small Crates/Crate Small (4)/Crate/Mesh/Box
-Crates/Small Crates/Crate Small (4)/Crate/Mesh/Lid
-Crates/Small Crates/Crate Small (4)/Crate/Open Sound
-Crates/Small Crates/Crate Small (4)/Crate/Unlock Display/Trigger
-Crates/Small Crates/Crate Small (5)/Crate/Locked Sound
-Crates/Small Crates/Crate Small (5)/Crate/Mesh/Box
-Crates/Small Crates/Crate Small (5)/Crate/Mesh/Lid
-Crates/Small Crates/Crate Small (5)/Crate/Open Sound
-Crates/Small Crates/Crate Small (5)/Crate/Unlock Display/Trigger
-Crates/Small Crates/Crate Small (6)/Crate/Locked Sound
-Crates/Small Crates/Crate Small (6)/Crate/Mesh/Box
-Crates/Small Crates/Crate Small (6)/Crate/Mesh/Lid
-Crates/Small Crates/Crate Small (6)/Crate/Open Sound
-Crates/Small Crates/Crate Small (6)/Crate/Unlock Display/Trigger
 Crates/Small Crates/Crate Small (7)/Crate/Locked Sound
 Crates/Small Crates/Crate Small (7)/Crate/Mesh/Box
 Crates/Small Crates/Crate Small (7)/Crate/Mesh/Lid
@@ -142,11 +137,6 @@ Crates/Small Crates/Crate Small (8)/Crate/Mesh/Box
 Crates/Small Crates/Crate Small (8)/Crate/Mesh/Lid
 Crates/Small Crates/Crate Small (8)/Crate/Open Sound
 Crates/Small Crates/Crate Small (8)/Crate/Unlock Display/Trigger
-Crates/Small Crates/Crate Small (9)/Crate/Locked Sound
-Crates/Small Crates/Crate Small (9)/Crate/Mesh/Box
-Crates/Small Crates/Crate Small (9)/Crate/Mesh/Lid
-Crates/Small Crates/Crate Small (9)/Crate/Open Sound
-Crates/Small Crates/Crate Small (9)/Crate/Unlock Display/Trigger
 Crates/Small Crates/Crate Small/Crate/Locked Sound
 Crates/Small Crates/Crate Small/Crate/Mesh/Box
 Crates/Small Crates/Crate Small/Crate/Mesh/Lid
@@ -163,37 +153,12 @@ Items/Fork Spawns/Fork Spawn (5)
 Items/Fork Spawns/Fork Spawn (6)
 Items/Fork Spawns/Fork Spawn (7)
 Items/Forks/Fork/Grip
-Items/Keycards/Keycard (1)/Mesh
+Items/Keycards Dropped/Keycard Dropped/Mesh
 Items/Keycards/Keycard (10)/Mesh
 Items/Keycards/Keycard (11)/Mesh
-Items/Keycards/Keycard (12)/Mesh
-Items/Keycards/Keycard (13)/Mesh
-Items/Keycards/Keycard (14)/Mesh
-Items/Keycards/Keycard (15)/Mesh
 Items/Keycards/Keycard (16)/Mesh
-Items/Keycards/Keycard (17)/Mesh
-Items/Keycards/Keycard (18)/Mesh
 Items/Keycards/Keycard (19)/Mesh
-Items/Keycards/Keycard (2)/Mesh
 Items/Keycards/Keycard (20)/Mesh
-Items/Keycards/Keycard (21)/Mesh
-Items/Keycards/Keycard (22)/Mesh
-Items/Keycards/Keycard (23)/Mesh
-Items/Keycards/Keycard (24)/Mesh
-Items/Keycards/Keycard (25)/Mesh
-Items/Keycards/Keycard (26)/Mesh
-Items/Keycards/Keycard (27)/Mesh
-Items/Keycards/Keycard (28)/Mesh
-Items/Keycards/Keycard (29)/Mesh
-Items/Keycards/Keycard (3)/Mesh
-Items/Keycards/Keycard (30)/Mesh
-Items/Keycards/Keycard (31)/Mesh
-Items/Keycards/Keycard (4)/Mesh
-Items/Keycards/Keycard (5)/Mesh
-Items/Keycards/Keycard (6)/Mesh
-Items/Keycards/Keycard (7)/Mesh
-Items/Keycards/Keycard (8)/Mesh
-Items/Keycards/Keycard (9)/Mesh
 Items/Keycards/Keycard/Mesh
 Items/Knives/Evil Dagger (1)/Grip Point
 Items/Knives/Evil Dagger (1)/Mesh
@@ -642,19 +607,15 @@ Openables/Cabinets/Openable Cabinet 2 (2)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (2)/Sound
 Openables/Cabinets/Openable Cabinet 2 (3)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (3)/Door_R/Door_R
-Openables/Cabinets/Openable Cabinet 2 (3)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (3)/Sound
 Openables/Cabinets/Openable Cabinet 2 (4)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (4)/Door_R/Door_R
-Openables/Cabinets/Openable Cabinet 2 (4)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (4)/Sound
 Openables/Cabinets/Openable Cabinet 2 (5)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (5)/Door_R/Door_R
-Openables/Cabinets/Openable Cabinet 2 (5)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (5)/Sound
 Openables/Cabinets/Openable Cabinet 2 (6)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (6)/Door_R/Door_R
-Openables/Cabinets/Openable Cabinet 2 (6)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (6)/Sound
 Openables/Cabinets/Openable Cabinet 2 (7)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (7)/Door_R/Door_R
@@ -662,7 +623,6 @@ Openables/Cabinets/Openable Cabinet 2 (7)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (7)/Sound
 Openables/Cabinets/Openable Cabinet 2 (8)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (8)/Door_R/Door_R
-Openables/Cabinets/Openable Cabinet 2 (8)/Open Obj
 Openables/Cabinets/Openable Cabinet 2 (8)/Sound
 Openables/Cabinets/Openable Cabinet 2 (9)/Door_L/Door_L
 Openables/Cabinets/Openable Cabinet 2 (9)/Door_R/Door_R
@@ -754,8 +714,7 @@ Openables/Vents/Openable Wall Vent (6)/Sound
 Openables/Vents/Openable Wall Vent (6)/Vent/VentMesh
 Openables/Vents/Openable Wall Vent/Sound
 Openables/Vents/Openable Wall Vent/Vent/VentMesh
-PhotonMono 24F97
-PlayerManager
+PhotonMono 920A5
 Post Processing/Lit PP
 Prison/CCTV/Camera Buttons/Camera Button
 Prison/CCTV/Camera Buttons/Camera Button (1)
@@ -781,6 +740,7 @@ Prison/CCTV/Cameras/CCTV Camera (7)/Break Particles/Sparks
 Prison/CCTV/Cameras/CCTV Camera (7)/Break Sound
 Prison/CCTV/Cameras/CCTV Camera/Break Particles/Sparks
 Prison/CCTV/Cameras/CCTV Camera/Break Sound
+Prison/CCTV/Cameras/CCTV Camera/CCTVCamera_Left_Broken
 Prison/CCTV/Keyboard
 Prison/CCTV/TV/Canvas/Text Camera
 Prison/CCTV/Trigger
@@ -3649,6 +3609,8 @@ Scripts/Patron Control/Decoder/AvatarPedestal/AvatarPedestal(Clone)/ForwardDirec
 Scripts/Patron Control/Decoder/AvatarPedestal/AvatarPedestal(Clone)/Image
 Scripts/Patron Control/Decoder/AvatarPedestal/AvatarPedestal(Clone)/PlatformIconBack/PC
 Scripts/Patron Control/Decoder/AvatarPedestal/AvatarPedestal(Clone)/PlatformIconFront/PC
+Scripts/Player Object Pool/PlayerData (1)/Team Tag/Canvas/Text
+Scripts/Player Object Pool/PlayerData (20)/Team Tag/Canvas/Text
 Scripts/Scene Control
 Scripts/Scoreboard Display
 Scripts/Spectator Display
@@ -3664,31 +3626,14 @@ Spawn Area/Double Door Window/Audio Open
 Spawn Area/Double Door Window/Door (1)/Mesh
 Spawn Area/Double Door Window/Door/Mesh
 Spawn Area/Game Canvas/Background
-Spawn Area/Game Canvas/Panel Start/Logo/Image
-Spawn Area/Game Canvas/Panel Start/Logo/Text
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Game Master/Image
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Game Master/Image (1)
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Game Master/Text
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Game Master/Text (1)
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Game Master/Text Master Name
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider (1)/Slider Time Limit/Background
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider (1)/Slider Time Limit/Fill Area/Fill
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider (1)/Slider Time Limit/Handle Slide Area/Handle
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider (1)/Text Time Limit
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider (1)/Text Title
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider/Slider Pris Ratio/Background
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider/Slider Pris Ratio/Fill Area/Fill
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider/Slider Pris Ratio/Handle Slide Area/Handle
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider/Text Pris Ratio
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Panel Option Slider/Text Title
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Toggle Auto Balancing/Background/Checkmark
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Toggle Auto Balancing/Label
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Toggle Height Limits/Background/Checkmark
-Spawn Area/Game Canvas/Panel Start/Panel Game Options/Panel Options/Toggle Height Limits/Label
-Spawn Area/Game Canvas/Panel Start/Panel Teams/Panel Guards/Text Guards
-Spawn Area/Game Canvas/Panel Start/Panel Teams/Panel Prisoners/Text Prisoners
-Spawn Area/Game Canvas/Panel Start/Start Button/Button Start Disabled/Text
-Spawn Area/Game Canvas/Panel Start/Start Button/Lock Button Off
+Spawn Area/Game Canvas/Panel Playing/Button Spectate/Text
+Spawn Area/Game Canvas/Panel Playing/Logo/Image
+Spawn Area/Game Canvas/Panel Playing/Logo/Text
+Spawn Area/Game Canvas/Panel Playing/Panel Guards/Scroll View/Viewport/Content Guard Names/List Player/Player Name
+Spawn Area/Game Canvas/Panel Playing/Panel Guards/Text Guard Team
+Spawn Area/Game Canvas/Panel Playing/Panel Prisoners/Scroll View/Viewport/Content Pris Names/List Player (1)/Player Name
+Spawn Area/Game Canvas/Panel Playing/Panel Prisoners/Scroll View/Viewport/Content Pris Names/List Player/Player Name
+Spawn Area/Game Canvas/Panel Playing/Panel Prisoners/Text Prisoner Team
 Spawn Area/Lit Spawn/Building/Cells/Spawn Cell (1)/Bed_01 (1)/Bed_01_LOD1
 Spawn Area/Lit Spawn/Building/Cells/Spawn Cell (1)/Bed_01 (1)/Mattress_02
 Spawn Area/Lit Spawn/Building/Cells/Spawn Cell (1)/Bed_01/Bed_01_LOD1
@@ -3969,6 +3914,13 @@ Spawn Area/Signs/How To Play Sign 2/Panel/Panel Winning/Text
 Spawn Area/Signs/How To Play Sign 2/Panel/Panel Winning/Text (1)/Text
 Spawn Area/Signs/How To Play Sign 2/Panel/Panel Winning/Text (1)/Text (1)
 Spawn Area/Signs/How To Play Sign 2/Panel/Title Text
+Spawn Area/Signs/Most Wanted Sign/Background
+Spawn Area/Signs/Most Wanted Sign/Panel/Photo
+Spawn Area/Signs/Most Wanted Sign/Panel/Text
+Spawn Area/Signs/Most Wanted Sign/Panel/Text Name
+Spawn Area/Signs/Most Wanted Sign/Panel/Text Reward
+Spawn Area/Signs/Most Wanted Sign/Panel/Text Times Wanted
+Spawn Area/Signs/Most Wanted Sign/Panel/Title Text
 Spawn Area/Signs/Patrons Sign/Background
 Spawn Area/Signs/Patrons Sign/Panel/Text
 Spawn Area/Signs/Patrons Sign/Panel/Text (1)
@@ -3982,6 +3934,18 @@ Spawn Area/Signs/Posters/Poster (5)
 Spawn Area/Signs/Posters/Poster (6)
 Spawn Area/Signs/Posters/Poster (7)
 Spawn Area/Signs/Scoreboard Sign/Background
+Spawn Area/Signs/Scoreboard Sign/Panel/Column Headers/Text
+Spawn Area/Signs/Scoreboard Sign/Panel/Column Headers/Text (1)
+Spawn Area/Signs/Scoreboard Sign/Panel/Column Headers/Text (2)
+Spawn Area/Signs/Scoreboard Sign/Panel/Column Headers/Text (3)
+Spawn Area/Signs/Scoreboard Sign/Panel/Column Headers/Text (4)
+Spawn Area/Signs/Scoreboard Sign/Panel/Column Headers/Text (5)
+Spawn Area/Signs/Scoreboard Sign/Panel/Scroll View Scorecards/Viewport/Content Scorecards/Scorecard (23)/Panel/Text Escapes
+Spawn Area/Signs/Scoreboard Sign/Panel/Scroll View Scorecards/Viewport/Content Scorecards/Scorecard (23)/Panel/Text Guard Kills
+Spawn Area/Signs/Scoreboard Sign/Panel/Scroll View Scorecards/Viewport/Content Scorecards/Scorecard (23)/Panel/Text Name
+Spawn Area/Signs/Scoreboard Sign/Panel/Scroll View Scorecards/Viewport/Content Scorecards/Scorecard (23)/Panel/Text Points
+Spawn Area/Signs/Scoreboard Sign/Panel/Scroll View Scorecards/Viewport/Content Scorecards/Scorecard (23)/Panel/Text Pris Kills
+Spawn Area/Signs/Scoreboard Sign/Panel/Scroll View Scorecards/Viewport/Content Scorecards/Scorecard (23)/Panel/Text Wins
 Spawn Area/Signs/Scoreboard Sign/Panel/Text
 Spawn Area/Signs/Scoreboard Sign/Panel/Title Text
 Spawn Area/Signs/Settings Sign/Background
@@ -3997,3 +3961,15 @@ Spawn Area/Signs/Settings Sign/Panel/Toggle Subtitles/Label
 Spawn Area/Signs/Settings Sign/Panel/Toggle Visual Hitboxes/Background/Checkmark
 Spawn Area/Signs/Settings Sign/Panel/Toggle Visual Hitboxes/Label
 Spawn Area/Signs/Update Sign/Text
+VRCWorld
+VRC_OBJECTS/Dispatcher
+VRC_OBJECTS/SpawnManager
+VRC_OBJECTS/TutorialManager/ControllerIconSetMouseKeyboard(Clone)
+VRC_OBJECTS/TutorialManager/GenericGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/PlayStationGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/SwitchProGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/_FloatingLabelTransform
+VRC_OBJECTS/USpeak
+World Light/Moon Light
+World Light/Sky Light
+[DOTween]

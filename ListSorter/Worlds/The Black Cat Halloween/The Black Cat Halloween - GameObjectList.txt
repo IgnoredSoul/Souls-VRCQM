@@ -20,12 +20,41 @@ AvatarPedestal/AvatarPedestal(Clone)/ForwardDirection
 AvatarPedestal/AvatarPedestal(Clone)/Image
 AvatarPedestal/AvatarPedestal(Clone)/PlatformIconBack/Any
 AvatarPedestal/AvatarPedestal(Clone)/PlatformIconFront/Any
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_1
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
+Avatar_createdEyeTarget_2
 BetterPlayerAudioController
 Bonuses
 DisBridge/== PluginManager ==/-- Roles --/RoleContainer
 DisBridge/== PluginManager ==/-- Roles --/RoleContainer (1)
 DisBridge/== Plugins ==
 EventSystem
+FpsCounter
 IMPORTANT COLLIDERS/stair collider
 Important collider/Cube (1)-00
 Important collider/Cube (1)-01
@@ -535,8 +564,7 @@ Particles/fire/Flame (9)
 Particles/green/Particle System
 Particles/green/Particle System (1)
 Particles/green/Particle System (2)
-PhotonMono 24F97
-PlayerManager
+PhotonMono 920A5
 SceneEventHandlerAndInstantiator
 Toggle Colliders/Cube
 Toggle Colliders/Cube (1)
@@ -616,6 +644,16 @@ UI/New Menu/Button Off (6)/Text
 UI/New Menu/Button Off (6)/outline
 UI/New Menu/Text (1)
 UI/Patreon
+VRCWorld
+VRC_OBJECTS/Dispatcher
+VRC_OBJECTS/SpawnManager
+VRC_OBJECTS/TutorialManager/ControllerIconSetMouseKeyboard(Clone)
+VRC_OBJECTS/TutorialManager/GenericGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/PlayStationGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/SwitchProGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/_FloatingLabelTransform
+VRC_OBJECTS/USpeak
+[DOTween]
 black cat 2021/BezierCurve.002
 black cat 2021/Cube
 black cat 2021/Cube (1)

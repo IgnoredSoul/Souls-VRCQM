@@ -23,6 +23,7 @@ Object: == PluginManager == | Key: log
 Object: == PluginManager == | Key: logError
 Object: == PluginManager == | Key: logWarning
 Object: AvatarPedestal | Key: _interact
+Object: AvatarPedestal | Key: _update
 Object: BetterPlayerAudioController | Key: AllowMasterTakeControl
 Object: BetterPlayerAudioController | Key: IgnorePlayer
 Object: BetterPlayerAudioController | Key: Initialize
@@ -75,6 +76,8 @@ Object: LQ Button Off | Key: _start
 Object: LQ Button Off | Key: _start
 Object: LQ Button Off | Key: _start
 Object: LQ Button Off | Key: _start
+Object: RenderCamera | Key: ReadPictureStep
+Object: RenderCamera | Key: _onPostRender
 Object: RoleContainer (1) | Key: AddMembersToArray
 Object: RoleContainer (1) | Key: GetMemberCount
 Object: RoleContainer (1) | Key: GetMembers

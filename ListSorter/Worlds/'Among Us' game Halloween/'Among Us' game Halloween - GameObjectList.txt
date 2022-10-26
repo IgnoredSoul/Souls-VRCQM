@@ -1,3 +1,179 @@
+!ftraceLightmaps
+Environment/Ambient Space Light/Bakery Ambient Light
+Environment/Engine col (1)
+Environment/Engine col (2)
+Environment/Invisible wall
+Environment/Invisible wall (1)
+Environment/Oxygen col
+Environment/Vents/Vent light (10)/Emergency Light
+Environment/Vents/Vent light (11)/Emergency Light
+Environment/Vents/Vent light (12)/Emergency Light
+Environment/Vents/Vent light (13)/Emergency Light
+Environment/Vents/Vent light (14)/Emergency Light
+Environment/Vents/Vent light (16)/Emergency Light
+Environment/Vents/Vent light (17)/Emergency Light
+Environment/Vents/Vent light (18)/Emergency Light
+Environment/Vents/Vent light (19)/Emergency Light
+Environment/Vents/Vent light (20)/Emergency Light
+Environment/Vents/Vent light (21)/Emergency Light
+Environment/Vents/Vent light (22)/Emergency Light
+Environment/Vents/Vent light (23)/Emergency Light
+Environment/Vents/Vent light (24)/Emergency Light
+Environment/Vents/vents
+Environment/shuttle col
+Environment/shuttle/Ceiling Light (32)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (33)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (34)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (35)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (36)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (37)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (38)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (39)/Ceiling Point Light
+Environment/shuttle/Ceiling Light (40)/Ceiling Point Light
+Environment/shuttle/Screen light
+Environment/shuttle/Screen light (1)
+Environment/shuttle/Screen light (2)
+Environment/shuttle/Screen light (4)
+Environment/shuttle/Screen light (5)
+Environment/shuttle/Screen light (6)
+Environment/shuttle/Screen light (8)
+Environment/shuttle/shuttle screen
+Environment/shuttle/shuttle screen (1)
+Environment/shuttle/shuttle screen 1
+Environment/shuttle/shuttle screen 1 (1)
+Environment/shuttle/shuttle screen 2
+Environment/shuttle/shuttle screen 2 (1)
+Environment/skeld col
+Environment/skeld lights on/Halloween ON/pump
+Environment/skeld lights on/Halloween ON/pump (1)
+Environment/skeld lights on/Halloween ON/pump (2)
+Environment/skeld lights on/Halloween ON/pump (3)
+Environment/skeld lights on/Halloween ON/pump (4)
+Environment/skeld lights on/Halloween ON/pump (5)
+Environment/skeld lights on/Halloween ON/pumpkin (28)/pumpkin light
+Environment/skeld lights on/Halloween ON/pumpkin (29)/pumpkin light
+Environment/skeld lights on/Halloween ON/pumpkin (30)/pumpkin light
+Environment/skeld lights on/Halloween ON/pumpkin (31)/pumpkin light
+Environment/skeld lights on/Halloween ON/web
+Environment/skeld lights on/Halloween ON/web (1)
+Environment/skeld lights on/Halloween ON/web (2)
+Environment/skeld lights on/Halloween ON/web (3)
+Environment/skeld lights on/Halloween ON/web (4)
+Environment/skeld lights on/Halloween ON/web (5)
+Environment/skeld lights on/Light Fixtures on/Always on light (2)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Always on light (3)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Always on light (3)/Ceiling Point Light (1)
+Environment/skeld lights on/Light Fixtures on/Always on light (3)/Ceiling Point Light (2)
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (0)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (1)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (10)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (11)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (12)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (13)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (14)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (15)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (16)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (17)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (18)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (19)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (2)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (20)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (21)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (22)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (23)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (24)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (25)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (25)/Ceiling Point Light (1)
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (25)/Ceiling Point Light (2)
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (26)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (29)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (3)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (30)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (31)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (33)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (4)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (5)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (6)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (7)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (8)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Ceiling Light (9)/Ceiling Point Light
+Environment/skeld lights on/Light Fixtures on/Emergency light (17)
+Environment/skeld lights on/Light Fixtures on/Emergency light (4)
+Environment/skeld lights on/Light Fixtures on/Emergency light (5)
+Environment/skeld lights on/Light Fixtures on/Emergency light (6)
+Environment/skeld lights on/Light Fixtures on/Emergency light (7)
+Environment/skeld lights on/Light Fixtures on/Emergency light (8)
+Environment/skeld lights on/Light Fixtures on/Emergency light (9)
+Environment/skeld lights on/Vent (14)
+Environment/skeld lights on/Vent (15)
+Environment/skeld lights on/Vent (16)
+Environment/skeld lights on/Vent (17)
+Environment/skeld lights on/Vent (18)
+Environment/skeld lights on/Vent (19)
+Environment/skeld lights on/Vent (20)
+Environment/skeld lights on/Vent (21)
+Environment/skeld lights on/Vent (22)
+Environment/skeld lights on/Vent (23)
+Environment/skeld lights on/Vent (24)
+Environment/skeld lights on/Vent (25)
+Environment/skeld lights on/Vent (26)
+Environment/skeld lights on/Vent (27)
+Environment/skeld lights on/Weapons glow light (1)
+Environment/skeld lights on/admin
+Environment/skeld lights on/admin terminal geo
+Environment/skeld lights on/align terminal geo 11
+Environment/skeld lights on/align terminal geo 12
+Environment/skeld lights on/cafeteria
+Environment/skeld lights on/center hallway
+Environment/skeld lights on/communications
+Environment/skeld lights on/data terminal geo 1/terminal halo
+Environment/skeld lights on/data terminal geo 10
+Environment/skeld lights on/data terminal geo 2/terminal halo
+Environment/skeld lights on/data terminal geo 3/terminal halo
+Environment/skeld lights on/data terminal geo 4/terminal halo
+Environment/skeld lights on/data terminal geo 5/terminal halo
+Environment/skeld lights on/data terminal geo 6/terminal halo
+Environment/skeld lights on/data terminal geo 7
+Environment/skeld lights on/data terminal geo 8
+Environment/skeld lights on/data terminal geo 9
+Environment/skeld lights on/distributor geo
+Environment/skeld lights on/diver power geo
+Environment/skeld lights on/east hallway
+Environment/skeld lights on/electrical
+Environment/skeld lights on/engine hallway
+Environment/skeld lights on/engine north
+Environment/skeld lights on/engine south
+Environment/skeld lights on/garbage chute geo (1)/Spot Light
+Environment/skeld lights on/garbage chute geo (2)/Spot Light
+Environment/skeld lights on/garbage chute geo/Spot Light
+Environment/skeld lights on/gas can
+Environment/skeld lights on/gas can (1)
+Environment/skeld lights on/medbay
+Environment/skeld lights on/navigation
+Environment/skeld lights on/north hallway
+Environment/skeld lights on/northeast hallway
+Environment/skeld lights on/oxygen
+Environment/skeld lights on/reactor
+Environment/skeld lights on/security
+Environment/skeld lights on/shields
+Environment/skeld lights on/south hallway
+Environment/skeld lights on/southeast hallway
+Environment/skeld lights on/storage
+Environment/skeld lights on/swipe terminal geo
+Environment/skeld lights on/terminal geo 1
+Environment/skeld lights on/terminal geo 10
+Environment/skeld lights on/terminal geo 11
+Environment/skeld lights on/terminal geo 2
+Environment/skeld lights on/terminal geo 3
+Environment/skeld lights on/terminal geo 4
+Environment/skeld lights on/terminal geo 5
+Environment/skeld lights on/terminal geo 6
+Environment/skeld lights on/terminal geo 7
+Environment/skeld lights on/terminal geo 8
+Environment/skeld lights on/terminal geo 9
+Environment/skeld lights on/weapons
+Environment/skeld occ
+FpsCounter
 Game Logic/Admin/Admin map disabled/Admin canvas/Image
 Game Logic/Admin/Admin map disabled/Admin canvas/Image (1)
 Game Logic/Admin/Admin map disabled/Admin canvas/Image (2)
@@ -829,4 +1005,18 @@ Info Canvas/Text (1)
 JarDebugSummon
 Lobby Pumpkins/pumpkin (26)/pumpkin light
 Lobby Pumpkins/pumpkin (27)/pumpkin light
-New Game ObjectNew Game Object
+New Game Object
+New Game Object
+Oculus.Platform.CallbackRunner
+PhotonMono 920A5
+SceneEventHandlerAndInstantiator
+VRC_OBJECTS/Dispatcher
+VRC_OBJECTS/SpawnManager
+VRC_OBJECTS/TutorialManager/ControllerIconSetMouseKeyboard(Clone)
+VRC_OBJECTS/TutorialManager/GenericGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/PlayStationGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/SwitchProGamepadIconLibrary(Clone)
+VRC_OBJECTS/TutorialManager/_FloatingLabelTransform
+VRC_OBJECTS/USpeak
+Version:42H
+[DOTween]

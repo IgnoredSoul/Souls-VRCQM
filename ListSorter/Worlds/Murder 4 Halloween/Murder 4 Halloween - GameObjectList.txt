@@ -1291,30 +1291,37 @@ Environment/Lobby/Pedestals/Pedestal (9)/Pedestal display (8)/AvatarPedestal(Clo
 Environment/Lobby/Pedestals/Pedestal (9)/pedestal contents
 Environment/Lobby/Plant (1)_day/Plant (1)_night
 Environment/Lobby/Plant_day/Plant_night
+Environment/Lobby/Portals/Among Us/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/Among Us/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/Among Us/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/Among Us/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
 Environment/Lobby/Portals/Among Us/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+Environment/Lobby/Portals/Catch That Phrase/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/Catch That Phrase/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/Catch That Phrase/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/Catch That Phrase/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
 Environment/Lobby/Portals/Catch That Phrase/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+Environment/Lobby/Portals/Kitchen Cooks/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/Kitchen Cooks/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/Kitchen Cooks/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/Kitchen Cooks/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
 Environment/Lobby/Portals/Kitchen Cooks/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+Environment/Lobby/Portals/Marble Puzzles/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/Marble Puzzles/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/Marble Puzzles/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/Marble Puzzles/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
 Environment/Lobby/Portals/Marble Puzzles/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+Environment/Lobby/Portals/Murder 2/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/Murder 2/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/Murder 2/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/Murder 2/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
 Environment/Lobby/Portals/Murder 2/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+Environment/Lobby/Portals/Spirit Speak/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/Spirit Speak/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/Spirit Speak/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/Spirit Speak/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
 Environment/Lobby/Portals/Spirit Speak/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+Environment/Lobby/Portals/ZoomBox/PortalInternalMobile(Clone)/Canvas/NameTag
 Environment/Lobby/Portals/ZoomBox/PortalInternalMobile(Clone)/PlatformIcons/Quad
 Environment/Lobby/Portals/ZoomBox/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
 Environment/Lobby/Portals/ZoomBox/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
@@ -1980,6 +1987,14 @@ Game Logic/Signs/Tutorial Canvas/Contents/Tutorial text (B)
 Game Logic/Signs/Tutorial Canvas/Contents/Tutorial text (D)
 Game Logic/Signs/Tutorial Canvas/Contents/Tutorial text (M)
 Game Logic/Snakes/Snake/Cat Loop
+Game Logic/Snakes/Snake/Geo/Cat Attack Sound
+Game Logic/Snakes/Snake/Geo/Cat Death Sound
+Game Logic/Snakes/Snake/Geo/Snake Attack Sound
+Game Logic/Snakes/Snake/Geo/Snake Death Sound
+Game Logic/Snakes/Snake/Geo/Snake Stuff/Snake Geo/spider/Spiderling Venom001
+Game Logic/Snakes/Snake/Geo/Snake Stuff/Snake Geo/spider/Spiderling Venom002
+Game Logic/Snakes/Snake/Geo/Snake Stuff/Snake Geo/spider/Spiderling Venom003
+Game Logic/Snakes/Snake/Geo/Snake Stuff/Snake Geo/spider/Spiderling Venom004
 Game Logic/Snakes/Snake/Snake Loop
 Game Logic/Snakes/SnakeDispenser Spawns/SnakeDispenser Spawn (0)
 Game Logic/Snakes/SnakeDispenser Spawns/SnakeDispenser Spawn (1)
@@ -2179,15 +2194,12 @@ Ghost/ghost/mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mix
 New Game Object
 New Game Object
 Oculus.Platform.CallbackRunner
+Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Loading Data
 Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Margin Lower
 Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Margin Upper
-Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1
 Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 1 Label
-Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10
 Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 10 Label
-Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 15+
 Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 15+ Label
-Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5
 Patreon Canvas/Background/Patron Frames/Scrolling Frame/Scrolling Content/Patrons 5 Label
 Patreon Canvas/Background/Static Frame/Gradient/Image
 Patreon Canvas/Background/Static Frame/Gradient/portrait
@@ -2198,436 +2210,8 @@ Patreon Canvas/Background/Static Frame/Present Frame/PresentHeader
 Patreon Canvas/Background/Static Frame/Present Frame/PresentNames
 Patreon Canvas/Background/Static Frame/Present Frame/TotalCount
 Patreon Canvas/Outline
-PhotonMono 24F97
-PlayerManager
+PhotonMono 920A5
 SceneEventHandlerAndInstantiator
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/MicButton/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_AudioSettings/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_AudioSettings/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Camera/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Camera/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Dashboard/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Dashboard/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Here/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Here/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Notifications/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Notifications/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Settings/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/Page_Settings/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/SoulMod-69420/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Page_Buttons_QM/HorizontalLayoutGroup/SoulMod-69420/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMNotificationsArea/DebugInfoPanel/Panel/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMNotificationsArea/DebugInfoPanel/Panel/Text_FPS
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMNotificationsArea/DebugInfoPanel/Panel/Text_Ping
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/BackgroundLayer01
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/BackgroundLayer02
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/MenuControllers/SelectedUserMenuController
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/Header_H1/HeaderBackground
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/Header_H1/LeftItemContainer/Button_Back/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/Header_H1/LeftItemContainer/Text_Title
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/ScrollRect/Viewport/VerticalLayoutGroup
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/SoulMod-SingleButton(1,0)/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/SoulMod-SingleButton(1,0)/Text_H4
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/SoulMod-SingleButton(2,0)/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/SoulMod-Menu-Dev Utils-544/SoulMod-SingleButton(2,0)/Text_H4
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Toggle_SafeMode/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/ToolTipPanel/Panel/Text_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Button/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Button/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Avatars/Container/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Avatars/Container/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Avatars/Container/Icon_Arrow
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Avatars/Container/Text_QM_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emoji/Container/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emoji/Container/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emoji/Container/Icon_Arrow
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emoji/Container/Text_QM_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emotes/Container/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emotes/Container/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emotes/Container/Icon_Arrow
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emotes/Container/Text_QM_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Friends/Container/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Friends/Container/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Friends/Container/Icon_Arrow
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Friends/Container/Text_QM_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Profile/Container/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Profile/Container/Icon
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Profile/Container/Icon_Arrow
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Profile/Container/Text_QM_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Wing-Immobilize/Container/Background
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Wing-Immobilize/Container/Icon_Arrow
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Wing-Immobilize/Container/Text_QM_H3
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/WngHeader_H1/HeaderBackground
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/WngHeader_H1/LeftItemContainer/Text_Title
-UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/WngHeader_H1/RightItemContainer
-UserInterface/DebugUI
-UserInterface/MenuContent/Interupts
-UserInterface/MenuContent/MenuAudio
-UserInterface/PlayerDisplay/BlackFade/inverted_sphere
-UserInterface/PlayerDisplay/WorldHudDisplay/MenuMesh
-UserInterface/QuickMenuLoader
-UserInterface/UnscaledUI/HudContent_Old/Hud/AlertTextParent/Text
-UserInterface/UnscaledUI/HudContent_Old/Hud/DynamicMounting
-UserInterface/UnscaledUI/HudContent_Old/Hud/Gesture Bar/Left Gesture
-UserInterface/UnscaledUI/HudContent_Old/Hud/Gesture Bar/Right Gesture
-UserInterface/UnscaledUI/HudContent_Old/Hud/HUDMirror
-UserInterface/UnscaledUI/HudContent_Old/Hud/ReticleParent/Reticle
-UserInterface/UnscaledUI/HudContent_Old/Hud/VoiceDotParent/VoiceDot
-UserInterface/UnscaledUI/HudContent_Old/Hud/VoiceDotParent/VoiceDotDisabled
-UserInterface/UnscaledUI/HudContent_Old/UiHudTextureCamera
-UserInterface/Watermark
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/ChestTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/HeadEffector/EmojiGenerator
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/HeadEffector/HeadBoneOffset
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/HeadEffector/USpeak
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/HipTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/LeftEffector/PickupJointLeftHand
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/LeftElbowTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/LeftFootTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/LeftKneeTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/LeftShoulderTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/RightEffector/PickupJointRightHand
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/RightElbowTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/RightFootTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/RightKneeTarget
-VRCPlayer[Local] 93492765 1/AnimationController/HeadAndHandIK/RightShoulderTarget
-VRCPlayer[Local] 93492765 1/AnimationController/Osc
-VRCPlayer[Local] 93492765 1/AnimationController/PlayableController
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/Finger Index R
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerIndexL
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerLittleL
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerLittleR
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerMiddleL
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerMiddleR
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerRingL
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FingerRingR
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FootL
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/FootR
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/HandL
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/HandR
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/Head
-VRCPlayer[Local] 93492765 1/AvatarDynamics_Player/Torso
-VRCPlayer[Local] 93492765 1/BigData
-VRCPlayer[Local] 93492765 1/CameraMount
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Anchor Target
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/LeftUpperLeg/LeftLowerLeg/LeftFoot/LeftToeBase/LeftToeBase_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/RightUpperLeg/RightLowerLeg/RightFoot/RightToeBase/RightToeBase_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftIndexProximal/LeftIndexIntermediate/LeftIndexDistal/LeftIndexDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftLittleProximal/LeftLittleIntermediate/LeftLittleDistal/LeftLittleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftMiddleProximal/LeftMiddleIntermediate/LeftMiddleDistal/LeftMiddleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftRingProximal/LeftRingIntermediate/LeftRingDistal/LeftRingDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftThumbProximal/LeftThumbIntermediate/LeftThumbDistal/LeftThumbDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Bangs_Right/Hair_Bangs_Right_001/Hair_Bangs_Right_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_1/Hair_Front_1_001/Hair_Front_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_2/Hair_Front_2_001/Hair_Front_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_3/Hair_Front_3_001/Hair_Front_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_3_002/Hair_Front_3_003/Hair_Front_3_003_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_1/Hair_Sides_Left_1_001/Hair_Sides_Left_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_2/Hair_Sides_Left_2_001/Hair_Sides_Left_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_3/Hair_Sides_Left_3_001/Hair_Sides_Left_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_1/Hair_Sides_Right_1_001/Hair_Sides_Right_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_2/Hair_Sides_Right_2_001/Hair_Sides_Right_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_3/Hair_Sides_Right_3_001/Hair_Sides_Right_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/HmdPivot
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/Lolipop
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/ahoge_1/ahoge_2/ahoge_3/ahoge_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/bangs/bangs_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/ear_root/ear_L/ear_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/ear_root/ear_R/ear_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/gothicglassesbyglitch/Armature/Head/001/002/003/004/005/006/007/008/009/010
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/gothicglassesbyglitch/glasses by glitch
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back/hair_back_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back_L/hair_back_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back_R/hair_back_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_side_L_1/hair_side_L_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_side_R_1/hair_side_R_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Head/horns/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/Neck/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightIndexProximal/RightIndexIntermediate/RightIndexDistal/RightIndexDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightLittleProximal/RightLittleIntermediate/RightLittleDistal/RightLittleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightMiddleProximal/RightMiddleIntermediate/RightMiddleDistal/RightMiddleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightRingProximal/RightRingIntermediate/RightRingDistal/RightRingDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightThumbProximal/RightThumbIntermediate/RightThumbDistal/RightThumbDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/demon_backpack
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/string_L_1/string_L_2/string_L_3/string_L_4/string_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Spine/Chest/string_R_1/string_R_2/string_R_3/string_R_4/string_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Tails/Armature/Tail/Tail Center/Right leg.001/Right leg.002/Right leg.003/TailByNyakoh
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Tails/Armature/Tail/Tail Left/Right leg.012/Right leg.013/Right leg.014/Right leg.015
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Tails/Armature/Tail/Tail Right/Right leg.006/Right leg.007/Right leg.008/Right leg.009
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Armature/Hips/Tails/KitsuneTail
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/body_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/knee-socks
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/parker
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/parker_string
-VRCPlayer[Local] 93492765 1/ForwardDirection/Avatar/parker_××
-VRCPlayer[Local] 93492765 1/ForwardDirection/CreatedPlayerLeftVREye
-VRCPlayer[Local] 93492765 1/ForwardDirection/CreatedPlayerRightVREye
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Anchor Target
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/LeftFoot/LeftToeBase/LeftToeBase_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/RightUpperLeg/RightLowerLeg/RightFoot/RightToeBase/RightToeBase_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftIndexProximal/LeftIndexIntermediate/LeftIndexDistal/LeftIndexDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftLittleProximal/LeftLittleIntermediate/LeftLittleDistal/LeftLittleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftMiddleProximal/LeftMiddleIntermediate/LeftMiddleDistal/LeftMiddleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftRingProximal/LeftRingIntermediate/LeftRingDistal/LeftRingDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftThumbProximal/LeftThumbIntermediate/LeftThumbDistal/LeftThumbDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Bangs_Right/Hair_Bangs_Right_001/Hair_Bangs_Right_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_1/Hair_Front_1_001/Hair_Front_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_2/Hair_Front_2_001/Hair_Front_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_3/Hair_Front_3_001/Hair_Front_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_3_002/Hair_Front_3_003/Hair_Front_3_003_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_1/Hair_Sides_Left_1_001/Hair_Sides_Left_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_2/Hair_Sides_Left_2_001/Hair_Sides_Left_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_3/Hair_Sides_Left_3_001/Hair_Sides_Left_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_1/Hair_Sides_Right_1_001/Hair_Sides_Right_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_2/Hair_Sides_Right_2_001/Hair_Sides_Right_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_3/Hair_Sides_Right_3_001/Hair_Sides_Right_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/Lolipop
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/ahoge_1/ahoge_2/ahoge_3/ahoge_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/bangs/bangs_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/ear_root/ear_L/ear_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/ear_root/ear_R/ear_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/gothicglassesbyglitch/Armature/Head/001/002/003/004/005/006/007/008/009/010
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/gothicglassesbyglitch/glasses by glitch
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back/hair_back_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back_L/hair_back_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back_R/hair_back_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_side_L_1/hair_side_L_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_side_R_1/hair_side_R_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/Neck/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightIndexProximal/RightIndexIntermediate/RightIndexDistal/RightIndexDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightLittleProximal/RightLittleIntermediate/RightLittleDistal/RightLittleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightMiddleProximal/RightMiddleIntermediate/RightMiddleDistal/RightMiddleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightRingProximal/RightRingIntermediate/RightRingDistal/RightRingDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightThumbProximal/RightThumbIntermediate/RightThumbDistal/RightThumbDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/demon_backpack
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/string_L_1/string_L_2/string_L_3/string_L_4/string_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Spine/Chest/string_R_1/string_R_2/string_R_3/string_R_4/string_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Tails/Armature/Tail/Tail Center/Right leg.001/Right leg.002/Right leg.003/TailByNyakoh
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Tails/Armature/Tail/Tail Left/Right leg.012/Right leg.013/Right leg.014/Right leg.015
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Tails/Armature/Tail/Tail Right/Right leg.006/Right leg.007/Right leg.008/Right leg.009
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Armature/Hips/Tails/KitsuneTail
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/body_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/knee-socks
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/parker
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/parker_string
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarMirrorClone/parker_××
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Anchor Target
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/LeftFoot/LeftToeBase/LeftToeBase_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/LeftUpperLeg/LeftLowerLeg/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/RightUpperLeg/RightLowerLeg/RightFoot/RightToeBase/RightToeBase_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/RightUpperLeg/RightLowerLeg/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftIndexProximal/LeftIndexIntermediate/LeftIndexDistal/LeftIndexDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftLittleProximal/LeftLittleIntermediate/LeftLittleDistal/LeftLittleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftMiddleProximal/LeftMiddleIntermediate/LeftMiddleDistal/LeftMiddleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftRingProximal/LeftRingIntermediate/LeftRingDistal/LeftRingDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/LeftThumbProximal/LeftThumbIntermediate/LeftThumbDistal/LeftThumbDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftHand/Stig's Chain Collar 1/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Bangs_Right/Hair_Bangs_Right_001/Hair_Bangs_Right_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_1/Hair_Front_1_001/Hair_Front_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_2/Hair_Front_2_001/Hair_Front_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_3/Hair_Front_3_001/Hair_Front_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Front_3_002/Hair_Front_3_003/Hair_Front_3_003_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_1/Hair_Sides_Left_1_001/Hair_Sides_Left_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_2/Hair_Sides_Left_2_001/Hair_Sides_Left_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Left_3/Hair_Sides_Left_3_001/Hair_Sides_Left_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_1/Hair_Sides_Right_1_001/Hair_Sides_Right_1_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_2/Hair_Sides_Right_2_001/Hair_Sides_Right_2_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Armature/Head/Hair_Sides_Right_3/Hair_Sides_Right_3_001/Hair_Sides_Right_3_001_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Hat_Hair/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/Lolipop
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/ahoge_1/ahoge_2/ahoge_3/ahoge_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/bangs/bangs_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/ear_root/ear_L/ear_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/ear_root/ear_R/ear_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/gothicglassesbyglitch/Armature/Head/001/002/003/004/005/006/007/008/009/010
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/gothicglassesbyglitch/glasses by glitch
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back/hair_back_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back_L/hair_back_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_back_R/hair_back_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_side_L_1/hair_side_L_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/hair_root/hair_side_R_1/hair_side_R_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns (1)/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/LeftEye/LeftEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Neck/Head/RightEye/RightEye_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Head/horns/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/Neck/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightIndexProximal/RightIndexIntermediate/RightIndexDistal/RightIndexDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightLittleProximal/RightLittleIntermediate/RightLittleDistal/RightLittleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightMiddleProximal/RightMiddleIntermediate/RightMiddleDistal/RightMiddleDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightRingProximal/RightRingIntermediate/RightRingDistal/RightRingDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/RightThumbProximal/RightThumbIntermediate/RightThumbDistal/RightThumbDistal_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Armature/Bone/Bone.001/Bone.002/Bone.003/Bone.004/Bone.004_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/RightShoulder/RightUpperArm/RightLowerArm/RightHand/Stig's Chain Collar/Stig's Chain Collar
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/demon_backpack
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/string_L_1/string_L_2/string_L_3/string_L_4/string_L_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Spine/Chest/string_R_1/string_R_2/string_R_3/string_R_4/string_R_end
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Tails/Armature/Tail/Tail Center/Right leg.001/Right leg.002/Right leg.003/TailByNyakoh
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Tails/Armature/Tail/Tail Left/Right leg.012/Right leg.013/Right leg.014/Right leg.015
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Tails/Armature/Tail/Tail Right/Right leg.006/Right leg.007/Right leg.008/Right leg.009
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Armature/Hips/Tails/KitsuneTail
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/Body
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/body_2
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/knee-socks
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/parker
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/parker_string
-VRCPlayer[Local] 93492765 1/ForwardDirection/_AvatarShadowClone/parker_××
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/ChatBubble/ChatText
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/ChatBubble/TypingIndicator/Text
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Main/Background
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Main/Friend Anchor Capsule
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Main/Text Container/Name/TMP SubMeshUI [Namplete Text + NotoSans-Bold Atlas]
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Main/Text Container/Sub Text/Icon
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Main/Text Container/Sub Text/Text/TMP SubMeshUI [Namplete Text + NotoSans-Bold Atlas]
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Quick Stats/Friend Anchor Stats
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Quick Stats/Performance Icon
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Quick Stats/Performance Text/TMP SubMeshUI [Namplete Text + NotoSans-Bold Atlas]
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Quick Stats/Trust Icon
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Quick Stats/Trust Text/TMP SubMeshUI [Namplete Text + NotoSans-Bold Atlas]
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Status Line/Quest/Quest Icon
-VRCPlayer[Local] 93492765 1/Player Nameplate/Canvas/Layout/NameplateGroup/Nameplate/Contents/Status Line/Quest/Quest Text/TMP SubMeshUI [Namplete Text + NotoSans-Bold Atlas]
-VRCPlayer[Local] 93492765 1/UserCameraIndicator/Indicator/Speaker
 VRC_OBJECTS/Dispatcher
 VRC_OBJECTS/SpawnManager
 VRC_OBJECTS/TutorialManager/ControllerIconSetMouseKeyboard(Clone)
@@ -2638,76 +2222,3 @@ VRC_OBJECTS/TutorialManager/_FloatingLabelTransform
 VRC_OBJECTS/USpeak
 World Version: M482H
 [DOTween]
-_Application/AnalyticsManager
-_Application/ApplicationSetup
-_Application/AssetBundleDownloadManager
-_Application/AssetManagement
-_Application/AudioManager/OVRLipSync
-_Application/AudioManager/OculusSpatializerSettings
-_Application/AvatarDynamics/IMDraw
-_Application/ControllerBindingsManager
-_Application/CursorManager/DotRightHand/VRCUICursorIcon
-_Application/CursorManager/SelectedOutlinePrimary
-_Application/CursorManager/SelectedOutlineSecondary
-_Application/FlowManager
-_Application/FontManager
-_Application/FriendsListManager
-_Application/GraphicsManager
-_Application/HMDManager
-_Application/HeadlessManager
-_Application/InputManager
-_Application/InviteAndResponseManager
-_Application/LogManager
-_Application/NameplateManager
-_Application/NetworkManager
-_Application/NotificationManager
-_Application/PanoramaCapture
-_Application/PerformanceManager
-_Application/PermissionsManager
-_Application/PlayableManager
-_Application/RoomManager
-_Application/StatusManager
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GripOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GunOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PalmOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PointerOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/WristOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GripOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GunOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PalmOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PointerOrigin
-_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/WristOrigin
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor/Ear
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftEyeAnchor
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GripOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GunOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/LeftControllerAnchor
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PalmOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PointerOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/WristOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightEyeAnchor
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GripOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GunOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PalmOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PointerOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/RightControllerAnchor
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/WristOrigin (1)
-_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/TrackerAnchor
-_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreen
-_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreenWorldImage
-_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/CubemapSkybox
-_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreen
-_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreenWorldImage
-_Application/UIManager/AvatarsManager
-_Application/UIManager/DataModelManager
-_Application/UIManager/DevTools
-_Application/UIManager/EmojiManager
-_Application/UIManager/Emotes
-_Application/UIManager/InfoPushSystemManager
-_Application/UIManager/PlayerInputManager
-_Application/UIManager/SelectedUserManager
-_Application/UIManager/Settings
-_Application/UIManager/UIInputManager
-_Application/UdonManager
-_Application/UiEventSystem
-_Application/Updators
