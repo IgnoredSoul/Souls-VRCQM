@@ -91,7 +91,7 @@ Gets object's gameObject and toggles it between true and false.
 
 ```
 Item Orbit:
-I used worl clients item orbit as a base and modified it
+I used world clients item orbit as a base and modified it
 to check for shit.. so really credit goes to them!
 
 I really cant be fucked explaining it so heres the code
