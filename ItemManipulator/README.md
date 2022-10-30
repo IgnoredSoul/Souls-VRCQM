@@ -5,13 +5,14 @@
 <br>
 
 ```
-[bool] ItemOrbit
-[bool] ItemHider
-[bool] ButterFingers
-[bool] SelButterFingers
-[bool] AntiTheft
-[List<VRC_Pickup>] cachedList
-[GameObject] orbObj;
+[bool] Item Orbit
+[float] OrbitS peed
+[bool] Item Hider
+[bool] Butter Fingers
+[bool] Select Butter Fingers
+[bool] Anti Theft
+[bool] Player Head Swarm
+[bool] Toggle Item Mesh
 ```
 </details>
 <br/>
@@ -91,18 +92,15 @@ Gets object's gameObject and toggles it between true and false.
 
 ```
 Item Orbit:
-I used worl clients item orbit as a base and modified it
+I used world clients item orbit as a base and modified it
 to check for shit.. so really credit goes to them!
+```
+</details>
+<summary>Player Head Swarm</summary>
+<br>
 
-I really cant be fucked explaining it so heres the code
-
-orbObj.transform.position = player.transform.position + new Vector3(0f, 0.2f, 0f);
-orbObj.transform.Rotate(new Vector3(0f, 0.2f * Time.deltaTime, 0f));
-for (int i = 0; i < cachedList.Count; i++)
-{
-    Extensions.CheckForOwnerShipPickups(cachedList[i]);
-    cachedList[i].transform.position = orbObj.transform.position + orbObj.transform.forward * 1f;
-    orbObj.transform.Rotate(new Vector3(0f, (360 / cachedList.Count), 0f));
-}
+```
+Player Head Swarm:
+Just sets the 
 ```
 </details>

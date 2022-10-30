@@ -1,0 +1,21 @@
+door
+plant
+pedastals
+lamp
+clock
+chandelier
+candles
+fireplace
+library book stack
+globe
+painting
+stove
+sconce
+stone bench
+conservatory_day
+barrel
+dining chair
+webs
+pumpkins
+patreon credits
+patreon canvas
