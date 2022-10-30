@@ -1,3 +1,6 @@
+# Note!
+I wont be adding item crashing and shit like that, player head swarm and item orbit is as far as I will go. 
+
 # Item Functions | Old UI
 
 <details>
@@ -6,7 +9,7 @@
 
 ```
 [bool] Item Orbit
-[float] OrbitS peed
+[float] Orbit Speed
 [bool] Item Hider
 [bool] Butter Fingers
 [bool] Select Butter Fingers
@@ -96,11 +99,13 @@ I used world clients item orbit as a base and modified it
 to check for shit.. so really credit goes to them!
 ```
 </details>
+<br/>
+<details>
 <summary>Player Head Swarm</summary>
 <br>
 
 ```
 Player Head Swarm:
-Just sets the 
+Sets the items position to the players head... Thats it
 ```
 </details>
