@@ -10,7 +10,7 @@ I wont be adding item crashing and shit like that, player head swarm and item or
 ```
 [bool] Item Orbit
 [float] Orbit Speed
-[bool] Item Hider
+[bool] Item Hidera
 [bool] Butter Fingers
 [bool] Select Butter Fingers
 [bool] Anti Theft
@@ -109,3 +109,7 @@ Player Head Swarm:
 Sets the items position to the players head... Thats it
 ```
 </details>
+
+<br/>
+
+https://user-images.githubusercontent.com/61690983/199544308-4dfcf1a1-05a1-43ca-bc60-921547a722d7.mp4
