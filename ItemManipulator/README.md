@@ -1,7 +1,7 @@
 # Note!
 I wont be adding item crashing and shit like that, player head swarm and item orbit is as far as I will go. 
 
-# Item Functions | Old UI
+# Item Functions | ~~Old UI~~ No Longer Supported 
 
 <details>
 <summary>Bools And Shit</summary>
