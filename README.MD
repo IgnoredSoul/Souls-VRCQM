@@ -1,2 +1,1 @@
-# Info
-Some shit I've made regarding VRChat. From mods to scripts.
+I know its shit, but it works

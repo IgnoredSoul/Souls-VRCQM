@@ -74,10 +74,11 @@ if __name__ == "__main__":
 
     CreateFolders()
     for file in os.listdir("./Input"):
-        if(buff != None):
-            SortList(file, True)
-        if(buff == None):
-            SortList(file, False)
-        os.remove(f"./Input/{file}")
+        if not 'UdonKeyList' in file:
+            if(buff != None):
+                SortList(file, True)
+            if(buff == None):
+                SortList(file, False)
+            os.remove(f"./Input/{file}")
     for file in os.listdir("./Output"):
         FileSort(file)
