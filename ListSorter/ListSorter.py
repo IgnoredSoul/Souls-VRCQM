@@ -31,21 +31,25 @@ def CreateFolders():
 def SortList(file, checkS):
     duplicated = ""
     dCount = 0
+    lCount = 0
     print(f"Sorting {file}")
     if(file.endswith(".txt")):
-        with open(f"./Input/{file}", 'r') as o:
-            with open(f'./Output/{file[:-4]}.txt', 'w') as s:
+        with open(f"./Input/{file}", 'r', encoding="utf-8") as o:
+            with open(f'./Output/{file[:-4]}.txt', 'w', encoding="utf-8") as s:
                 for line in sorted(o):
                     if not line in duplicated:
                         if checkS == False and not Linechecker(line):
                             duplicated = line
                             s.write(line)
+                            lCount+=1
                         if checkS == True and not Linechecker2(line):
                             duplicated = line
                             s.write(line)
+                            lCount+=1
                     else:
                         dCount+=1
     print(f"Duplicate Text - {dCount}")
+    print(f"File Line Count - {lCount}")
 
 def FileSort(file):
     print(f"Moving {file}")

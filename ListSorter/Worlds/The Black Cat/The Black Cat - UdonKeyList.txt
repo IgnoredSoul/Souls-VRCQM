@@ -22,8 +22,6 @@ Object: == PluginManager == | Key: IsSupporter
 Object: == PluginManager == | Key: log
 Object: == PluginManager == | Key: logError
 Object: == PluginManager == | Key: logWarning
-Object: AvatarPedestal | Key: _interact
-Object: AvatarPedestal | Key: _update
 Object: BetterPlayerAudioController | Key: AllowMasterTakeControl
 Object: BetterPlayerAudioController | Key: IgnorePlayer
 Object: BetterPlayerAudioController | Key: Initialize
@@ -57,27 +55,11 @@ Object: DisBridge | Key: _UVR_Init
 Object: DisBridge | Key: _get_IsLoaded
 Object: DisBridge | Key: _start
 Object: HQ Button Off | Key: _HQbuttonoff
-Object: HQ Button Off | Key: _HQbuttonoff
 Object: HQ Button Off | Key: _menu
-Object: HQ Button Off | Key: _menu
-Object: HQ Button Off | Key: _menu
-Object: HQ Button Off | Key: _start
-Object: HQ Button Off | Key: _start
-Object: HQ Button Off | Key: _start
-Object: HQ Button Off | Key: _start
 Object: HQ Button Off | Key: _start
 Object: LQ Button Off | Key: _LQbuttonoff
-Object: LQ Button Off | Key: _LQbuttonoff
-Object: LQ Button Off | Key: _menu
-Object: LQ Button Off | Key: _menu
 Object: LQ Button Off | Key: _menu
 Object: LQ Button Off | Key: _start
-Object: LQ Button Off | Key: _start
-Object: LQ Button Off | Key: _start
-Object: LQ Button Off | Key: _start
-Object: LQ Button Off | Key: _start
-Object: RenderCamera | Key: ReadPictureStep
-Object: RenderCamera | Key: _onPostRender
 Object: RoleContainer (1) | Key: AddMembersToArray
 Object: RoleContainer (1) | Key: GetMemberCount
 Object: RoleContainer (1) | Key: GetMembers
@@ -95,33 +77,9 @@ Object: RoleContainer | Key: IsRoleStaff
 Object: RoleContainer | Key: IsRoleSupporter
 Object: RoleContainer | Key: _Init
 Object: Text | Key: _start
-Object: Text | Key: _start
-Object: Text | Key: _update
 Object: Text | Key: _update
 Object: VRCWorld | Key: _start
 Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: beertap handle | Key: _interact
-Object: trans Button Off | Key: _menu
-Object: trans Button Off | Key: _menu
 Object: trans Button Off | Key: _menu
 Object: trans Button Off | Key: _start
-Object: trans Button Off | Key: _start
-Object: trans Button Off | Key: _start
-Object: trans Button Off | Key: _start
-Object: trans Button Off | Key: _start
-Object: trans Button Off | Key: _transmirroron
 Object: trans Button Off | Key: _transmirroron

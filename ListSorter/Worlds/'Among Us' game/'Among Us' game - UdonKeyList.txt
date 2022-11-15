@@ -139,28 +139,16 @@ Object: Knob down (3) | Key: _interact
 Object: Knob down (4) | Key: _interact
 Object: MirrorButton | Key: _interact
 Object: OxygenKeypadButton 0 | Key: _interact
-Object: OxygenKeypadButton 0 | Key: _interact
-Object: OxygenKeypadButton 1 | Key: _interact
 Object: OxygenKeypadButton 1 | Key: _interact
 Object: OxygenKeypadButton 2 | Key: _interact
-Object: OxygenKeypadButton 2 | Key: _interact
-Object: OxygenKeypadButton 3 | Key: _interact
 Object: OxygenKeypadButton 3 | Key: _interact
 Object: OxygenKeypadButton 4 | Key: _interact
-Object: OxygenKeypadButton 4 | Key: _interact
-Object: OxygenKeypadButton 5 | Key: _interact
 Object: OxygenKeypadButton 5 | Key: _interact
 Object: OxygenKeypadButton 6 | Key: _interact
-Object: OxygenKeypadButton 6 | Key: _interact
-Object: OxygenKeypadButton 7 | Key: _interact
 Object: OxygenKeypadButton 7 | Key: _interact
 Object: OxygenKeypadButton 8 | Key: _interact
-Object: OxygenKeypadButton 8 | Key: _interact
-Object: OxygenKeypadButton 9 | Key: _interact
 Object: OxygenKeypadButton 9 | Key: _interact
 Object: OxygenKeypadButton S | Key: _interact
-Object: OxygenKeypadButton S | Key: _interact
-Object: OxygenKeypadButton X | Key: _interact
 Object: OxygenKeypadButton X | Key: _interact
 Object: Patreon Credits | Key: CleanString
 Object: Patreon Credits | Key: GetPatronTier
@@ -2076,146 +2064,26 @@ Object: Vent (7) | Key: _interact
 Object: Vent (8) | Key: _interact
 Object: Vent (9) | Key: _interact
 Object: Wire (1) | Key: ResetWire
-Object: Wire (1) | Key: ResetWire
-Object: Wire (1) | Key: ResetWire
-Object: Wire (1) | Key: ResetWire
-Object: Wire (1) | Key: ResetWire
-Object: Wire (1) | Key: ResetWire
-Object: Wire (1) | Key: SnapConnect
-Object: Wire (1) | Key: SnapConnect
-Object: Wire (1) | Key: SnapConnect
-Object: Wire (1) | Key: SnapConnect
-Object: Wire (1) | Key: SnapConnect
 Object: Wire (1) | Key: SnapConnect
 Object: Wire (1) | Key: _onDrop
-Object: Wire (1) | Key: _onDrop
-Object: Wire (1) | Key: _onDrop
-Object: Wire (1) | Key: _onDrop
-Object: Wire (1) | Key: _onDrop
-Object: Wire (1) | Key: _onDrop
-Object: Wire (1) | Key: _onPickup
-Object: Wire (1) | Key: _onPickup
-Object: Wire (1) | Key: _onPickup
-Object: Wire (1) | Key: _onPickup
-Object: Wire (1) | Key: _onPickup
 Object: Wire (1) | Key: _onPickup
 Object: Wire (1) | Key: _start
-Object: Wire (1) | Key: _start
-Object: Wire (1) | Key: _start
-Object: Wire (1) | Key: _start
-Object: Wire (1) | Key: _start
-Object: Wire (1) | Key: _start
-Object: Wire (1) | Key: _update
-Object: Wire (1) | Key: _update
-Object: Wire (1) | Key: _update
-Object: Wire (1) | Key: _update
-Object: Wire (1) | Key: _update
 Object: Wire (1) | Key: _update
 Object: Wire (2) | Key: ResetWire
-Object: Wire (2) | Key: ResetWire
-Object: Wire (2) | Key: ResetWire
-Object: Wire (2) | Key: ResetWire
-Object: Wire (2) | Key: ResetWire
-Object: Wire (2) | Key: ResetWire
-Object: Wire (2) | Key: SnapConnect
-Object: Wire (2) | Key: SnapConnect
-Object: Wire (2) | Key: SnapConnect
-Object: Wire (2) | Key: SnapConnect
-Object: Wire (2) | Key: SnapConnect
 Object: Wire (2) | Key: SnapConnect
 Object: Wire (2) | Key: _onDrop
-Object: Wire (2) | Key: _onDrop
-Object: Wire (2) | Key: _onDrop
-Object: Wire (2) | Key: _onDrop
-Object: Wire (2) | Key: _onDrop
-Object: Wire (2) | Key: _onDrop
-Object: Wire (2) | Key: _onPickup
-Object: Wire (2) | Key: _onPickup
-Object: Wire (2) | Key: _onPickup
-Object: Wire (2) | Key: _onPickup
-Object: Wire (2) | Key: _onPickup
 Object: Wire (2) | Key: _onPickup
 Object: Wire (2) | Key: _start
-Object: Wire (2) | Key: _start
-Object: Wire (2) | Key: _start
-Object: Wire (2) | Key: _start
-Object: Wire (2) | Key: _start
-Object: Wire (2) | Key: _start
-Object: Wire (2) | Key: _update
-Object: Wire (2) | Key: _update
-Object: Wire (2) | Key: _update
-Object: Wire (2) | Key: _update
-Object: Wire (2) | Key: _update
 Object: Wire (2) | Key: _update
 Object: Wire (3) | Key: ResetWire
-Object: Wire (3) | Key: ResetWire
-Object: Wire (3) | Key: ResetWire
-Object: Wire (3) | Key: ResetWire
-Object: Wire (3) | Key: ResetWire
-Object: Wire (3) | Key: ResetWire
-Object: Wire (3) | Key: SnapConnect
-Object: Wire (3) | Key: SnapConnect
-Object: Wire (3) | Key: SnapConnect
-Object: Wire (3) | Key: SnapConnect
-Object: Wire (3) | Key: SnapConnect
 Object: Wire (3) | Key: SnapConnect
 Object: Wire (3) | Key: _onDrop
-Object: Wire (3) | Key: _onDrop
-Object: Wire (3) | Key: _onDrop
-Object: Wire (3) | Key: _onDrop
-Object: Wire (3) | Key: _onDrop
-Object: Wire (3) | Key: _onDrop
-Object: Wire (3) | Key: _onPickup
-Object: Wire (3) | Key: _onPickup
-Object: Wire (3) | Key: _onPickup
-Object: Wire (3) | Key: _onPickup
-Object: Wire (3) | Key: _onPickup
 Object: Wire (3) | Key: _onPickup
 Object: Wire (3) | Key: _start
-Object: Wire (3) | Key: _start
-Object: Wire (3) | Key: _start
-Object: Wire (3) | Key: _start
-Object: Wire (3) | Key: _start
-Object: Wire (3) | Key: _start
-Object: Wire (3) | Key: _update
-Object: Wire (3) | Key: _update
-Object: Wire (3) | Key: _update
-Object: Wire (3) | Key: _update
-Object: Wire (3) | Key: _update
 Object: Wire (3) | Key: _update
 Object: Wire | Key: ResetWire
-Object: Wire | Key: ResetWire
-Object: Wire | Key: ResetWire
-Object: Wire | Key: ResetWire
-Object: Wire | Key: ResetWire
-Object: Wire | Key: ResetWire
-Object: Wire | Key: SnapConnect
-Object: Wire | Key: SnapConnect
-Object: Wire | Key: SnapConnect
-Object: Wire | Key: SnapConnect
-Object: Wire | Key: SnapConnect
 Object: Wire | Key: SnapConnect
 Object: Wire | Key: _onDrop
-Object: Wire | Key: _onDrop
-Object: Wire | Key: _onDrop
-Object: Wire | Key: _onDrop
-Object: Wire | Key: _onDrop
-Object: Wire | Key: _onDrop
-Object: Wire | Key: _onPickup
-Object: Wire | Key: _onPickup
-Object: Wire | Key: _onPickup
-Object: Wire | Key: _onPickup
-Object: Wire | Key: _onPickup
 Object: Wire | Key: _onPickup
 Object: Wire | Key: _start
-Object: Wire | Key: _start
-Object: Wire | Key: _start
-Object: Wire | Key: _start
-Object: Wire | Key: _start
-Object: Wire | Key: _start
-Object: Wire | Key: _update
-Object: Wire | Key: _update
-Object: Wire | Key: _update
-Object: Wire | Key: _update
-Object: Wire | Key: _update
 Object: Wire | Key: _update
