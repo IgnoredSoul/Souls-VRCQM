@@ -27,6 +27,8 @@ def CreateFolders():
         os.mkdir("./Output")
     if not(os.path.exists("./Worlds")):
         os.mkdir("./Worlds")
+    if not(os.path.exists("./Objects")):
+        os.mkdir("./Objects")
 
 def SortList(file, checkS):
     duplicated = ""
@@ -53,14 +55,18 @@ def SortList(file, checkS):
 
 def FileSort(file):
     print(f"Moving {file}")
-    if "GameObjectList" in file:
-        name = file.split("GameObjectList")[0][:-3]
+    if "WorldObjectList" in file:
+        name = file.split("WorldObjectList")[0][:-3]
         if not(os.path.exists(f"./Worlds/{name}")): os.mkdir(f"./Worlds/{name}")
         shutil.move(f"./Output/{file}", f"./Worlds/{name}")
     if "UdonKeyList" in file:
         name = file.split("UdonKeyList")[0][:-3]
         if not(os.path.exists(f"./Worlds/{name}")): os.mkdir(f"./Worlds/{name}")
         shutil.move(f"./Output/{file}", f"./Worlds/{name}")
+    if "ObjectList" in file:
+        name = file.split("ObjectList")[0][:-3]
+        if not(os.path.exists(f"./Objects/{name}")): os.mkdir(f"./Objects/{name}")
+        shutil.move(f"./Output/{file}", f"./Objects/{name}")
 
 if __name__ == "__main__":
     buff = None

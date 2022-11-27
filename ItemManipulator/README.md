@@ -1,7 +1,9 @@
 # Note!
 I wont be adding item crashing and shit like that, player head swarm and item orbit is as far as I will go. 
 
-# Item Functions | Beta
+If you want force grab. Get [Astral Pickups]("https://github.com/Astrum-Project/AstralPickups/blob/master/Orbit.cs")!
+
+# Item Functions | Release
 
 <details>
 <summary>Bools And Shit</summary>
@@ -33,28 +35,22 @@ Gets every active item and caches it.
 </details>
 <br/>
 <details>
+<summary>Loop Interval Slider</summary>
+<br>
+
+```
+Loop Interval:
+How slow does one loop take (seconds). Min: 0 Max: 2
+```
+</details>
+<br/>
+<details>
 <summary>Butter Fingers</summary>
 <br>
 
 ```
 Butter Fingers:
 Loops through item cache and checks if your not the owner of said object, become its owner.
-```
-</details>
-<br/>
-<details>
-<summary>Force Grab</summary>
-<br>
-
-```
-Force Grab:
-Loops through item cache again... then applies these
-
-AutoHold = VRC_Pickup.AutoHoldMode.Yes;
-allowManipulationWhenEquipped = true;
-DisallowTheft = false;
-MomentumTransferMethod = ForceMode.Force;
-proximity = 999;
 ```
 </details>
 <br/>
@@ -95,8 +91,24 @@ Gets object's gameObject and toggles it between true and false.
 
 ```
 Item Orbit:
-I used world clients item orbit as a base and modified it
-to check for shit.. so really credit goes to them!
+I used astral pickups item orbit as a base and modified it.
+I fucking re-learnt trig to modify it.. It was that hard surprisingly.
+```
+</details>
+<br/>
+<details>
+<summary>Orbit Sliders</summary>
+<br>
+
+```
+Speed:
+How fast it circles the player. Min: 0 Max: 5
+
+Height:
+At 0 the height is at their hips. Min: -10 Max: 10
+
+Radius:
+Distance between the player, also spreads the items. Min: 0 Max: 2.5
 ```
 </details>
 <br/>
@@ -111,5 +123,3 @@ Sets the items position to the players head... Thats it
 </details>
 
 <br/>
-
-https://user-images.githubusercontent.com/61690983/199544308-4dfcf1a1-05a1-43ca-bc60-921547a722d7.mp4
