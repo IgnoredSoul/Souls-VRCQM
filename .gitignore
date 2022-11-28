@@ -1,3 +1,5 @@
 ListSorter/Input
 ListSorter/Output
-VRCQM-Console/*
+VRCQM-Console
+VRCQM-DevHelper/prev.json
+VRCQM-DevHelper/test.py

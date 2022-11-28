@@ -1,4 +1,4 @@
-import os, sys, argparse, time
+import os, sys, argparse, time, json
 
 #region Args
 parser = argparse.ArgumentParser(description="-h The help screen... Dumbass")
@@ -28,7 +28,12 @@ args = parser.parse_args()
 #endregion
 
 #region Functions
-
+def saveFile(loc: str):
+    JsonData = {
+    "LastUsed": loc,
+    }
+    with open("prev.json", "w") as outfile:
+        outfile.write(json.dumps(JsonData, indent=4))
 #endregion
 
 #region Checks
@@ -36,7 +41,20 @@ if(len(sys.argv) <= 1):
     os.system("python VRCH.py -h")
 
 if(args.move):
-    fileLoc = input("Drag file here.\n> ")
+    if(os.path.exists("prev.json")):
+        yn = input("Use previous file? (Y/N)\n> ").lower()
+        if(yn == "n"):
+            fileLoc = input("Drag file here.\n> ")
+            saveFile(fileLoc)
+        else:
+            with open(f"./prev.json", "r", encoding="utf-8") as read_file:
+                settings = json.load(read_file)
+                print(settings["LastUsed"])
+                fileLoc = settings["LastUsed"]
+
+    else:
+        fileLoc = input("Drag file here.\n> ")
+        saveFile(fileLoc)
     os.system(f'adb.exe push {fileLoc} /sdcard/Android/data/com.vrchat.oculus.quest/files/Mods')
 
 if(args.start):
