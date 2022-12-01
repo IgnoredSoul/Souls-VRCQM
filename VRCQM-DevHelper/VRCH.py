@@ -1,7 +1,7 @@
-import os, sys, argparse, time, json
+import os, sys, argparse, time, json, atexit, subprocess
 
 #region Args
-parser = argparse.ArgumentParser(description="-h The help screen... Dumbass")
+parser = argparse.ArgumentParser()
 
 parser.add_argument(
     "-m",
@@ -18,11 +18,19 @@ parser.add_argument(
 )
 
 parser.add_argument(
+    "-d",
+    "--display",
+    help = "Display Quest Screen",
+    action = "store_true"
+)
+
+parser.add_argument(
     "-c",
     "--console",
     help = "Open console",
     action = "store_true"
 )
+
 
 args = parser.parse_args()
 #endregion
@@ -34,11 +42,21 @@ def saveFile(loc: str):
     }
     with open("prev.json", "w") as outfile:
         outfile.write(json.dumps(JsonData, indent=4))
+
+def closeSCRCPY():
+    try:
+        if(args.display):
+            os.system("taskkill /im scrcpy.exe /t /f")
+        os.system("adb kill-server")
+    except Exception as e:
+        print(e)
 #endregion
 
 #region Checks
 if(len(sys.argv) <= 1):
     os.system("python VRCH.py -h")
+
+atexit.register(closeSCRCPY)
 
 if(args.move):
     if(os.path.exists("prev.json")):
@@ -62,6 +80,9 @@ if(args.start):
     time.sleep(2)
     os.system("adb.exe shell monkey -p com.vrchat.oculus.quest -v 1")
     os.system("cls")
+
+if(args.display):
+    os.system("start /MIN ./scrcpy/scrcpy.exe -m 800 --crop=1600:900:2017:510")
 
 if(args.console):
     os.system("title Watching MelonLoader Logs")

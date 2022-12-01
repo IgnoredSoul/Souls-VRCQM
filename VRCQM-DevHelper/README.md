@@ -8,6 +8,7 @@
 -h, --help     Show this help message
 -m, --move     Move file to VRChat mods folder
 -s, --start    Starts VRChat
+-d, --display  Display Quest Screen
 -c, --console  Open console
 ```
 
