@@ -1,90 +1,62 @@
-#!/usr/bin/python
-import sys, os, shutil
-
-def Error():
-    print("Invalid Args")
-    print("""
-    Argv X)  VRCPlayer | _Application | UserInterface | PlayerManager
-    Argv 1)  VRCPlayer | _Application
-    """)
-    input("Press Enter To Continue...")
-    exit()
-
-def Linechecker(line):
-    if "VRCPlayer" in line or "_Application" in line or "UserInterface" in line or "PlayerManager" in line:
-        return True
-    return False
-
-def Linechecker2(line):
-    if "VRCPlayer" in line or "_Application" in line:
-        return True
-    return False
+import os, shutil, time
 
 def CreateFolders():
     if not(os.path.exists("./Input")):
         os.mkdir("./Input")
     if not(os.path.exists("./Output")):
         os.mkdir("./Output")
-    if not(os.path.exists("./Worlds")):
-        os.mkdir("./Worlds")
-    if not(os.path.exists("./Objects")):
-        os.mkdir("./Objects")
 
-def SortList(file, checkS):
+def SortList(file):
+
+    # Yeah
     duplicated = ""
     dCount = 0
     lCount = 0
+
+    # Print Sorting Said File
     print(f"Sorting {file}")
-    if(file.endswith(".txt")):
-        with open(f"./Input/{file}", 'r', encoding="utf-8") as o:
-            with open(f'./Output/{file[:-4]}.txt', 'w', encoding="utf-8") as s:
-                for line in sorted(o):
-                    if not line in duplicated:
-                        if checkS == False and not Linechecker(line):
-                            duplicated = line
-                            s.write(line)
-                            lCount+=1
-                        if checkS == True and not Linechecker2(line):
-                            duplicated = line
-                            s.write(line)
-                            lCount+=1
-                    else:
-                        dCount+=1
-    print(f"Duplicate Text - {dCount}")
-    print(f"File Line Count - {lCount}")
 
-def FileSort(file):
-    print(f"Moving {file}")
-    if "WorldObjectList" in file:
-        name = file.split("WorldObjectList")[0][:-3]
-        if not(os.path.exists(f"./Worlds/{name}")): os.mkdir(f"./Worlds/{name}")
-        shutil.move(f"./Output/{file}", f"./Worlds/{name}")
-    if "UdonKeyList" in file:
-        name = file.split("UdonKeyList")[0][:-3]
-        if not(os.path.exists(f"./Worlds/{name}")): os.mkdir(f"./Worlds/{name}")
-        shutil.move(f"./Output/{file}", f"./Worlds/{name}")
-    if "ObjectList" in file:
-        name = file.split("ObjectList")[0][:-3]
-        if not(os.path.exists(f"./Objects/{name}")): os.mkdir(f"./Objects/{name}")
-        shutil.move(f"./Output/{file}", f"./Objects/{name}")
+    # Get Lines
+    with open(file, 'r', encoding="utf-8") as f:
+        global lines
+        lines = sorted(f.readlines())
 
-if __name__ == "__main__":
-    buff = None
-    try:
-        if(len(sys.argv) > 2):
-            Error()
-        if(len(sys.argv) == 2):
-            buff = bool(sys.argv[1])
-    except:
-        Error()
+    # Sort And Write To File
+    with open(file, 'w', encoding="utf-8") as f:
+        for line in lines:
+            if not line in duplicated: # Make Sure Its Not A Duplicate
+                duplicated = line # Assign To Duplicate
+                f.write(line) # Write
+                lCount += 1 # Line Count ++
+            else:
+                dCount += 1 # Duplicate Count ++
 
-    CreateFolders()
-    for file in os.listdir("./Input"):
-        if not 'UdonKeyList' in file:
-            if(buff != None):
-                SortList(file, True)
-            if(buff == None):
-                SortList(file, False)
-            os.remove(f"./Input/{file}")
-    for file in os.listdir("./Output"):
-        FileSort(file)
+def SortFile(file):
+
+    # Print Moving Said File
+    print(f'Moving {file}\n')
+
+    if not (os.path.exists(f'./Output/{WorldName}')): os.mkdir(f'./Output/{WorldName}')
+    shutil.move(f'./Input/{file}', f'./Output/{WorldName}/{FileName}')
+
+CreateFolders()
+
+for file in os.listdir("./Input"):
+    global WorldName
+    global FileName
+    
+    if "WorldObjectsList" in file:
+        WorldName = file.split("WorldObjectsList")[0][:-3]
+        FileName = file.rsplit(' ', 1)[1]
+    elif "WorldUdonList" in file:
+        WorldName = file.split("WorldUdonList")[0][:-3]
+        FileName = file.rsplit(' ', 1)[1]
+    elif "WorldObjectList" in file:
+        WorldName = file.split("WorldObjectList")[0][:-3]
+        FileName = file.rsplit(' ', 1)[1]
+    else:
+        exit()
+
+    print(file)
+    SortList(f'./Input/{file}')
+    SortFile(file)

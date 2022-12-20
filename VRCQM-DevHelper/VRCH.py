@@ -60,19 +60,20 @@ atexit.register(closeSCRCPY)
 
 if(args.move):
     if(os.path.exists("prev.json")):
-        yn = input("Use previous file? (Y/N)\n> ").lower()
-        if(yn == "n"):
-            fileLoc = input("Drag file here.\n> ")
-            saveFile(fileLoc)
-        else:
-            with open(f"./prev.json", "r", encoding="utf-8") as read_file:
-                settings = json.load(read_file)
-                print(settings["LastUsed"])
+        with open(f"./prev.json", "r", encoding="utf-8") as read_file:
+            settings = json.load(read_file)
+            yn = input("Use " + settings['LastUsed'].rsplit("\\", 1)[1] + "? (Drag new file or press enter...)\n> ").lower()
+            if(yn != ""):
+                fileLoc = yn
+                saveFile(yn)
+            else:
                 fileLoc = settings["LastUsed"]
 
     else:
         fileLoc = input("Drag file here.\n> ")
         saveFile(fileLoc)
+        
+    print(f'Moving {settings["LastUsed"]}')
     os.system(f'adb.exe push {fileLoc} /sdcard/Android/data/com.vrchat.oculus.quest/files/Mods')
 
 if(args.start):

@@ -1,7 +1,7 @@
 # Note!
 I wont be adding item crashing and shit like that, player head swarm and item orbit is as far as I will go. 
 
-If you want force grab. Get [Astral Pickups]("https://github.com/Astrum-Project/AstralPickups/blob/master/Orbit.cs")!
+If you want propper force pickups. Get [Astral Pickups]("https://github.com/Astrum-Project/AstralPickups/blob/master/Orbit.cs")!
 
 # Item Functions | Release
 
