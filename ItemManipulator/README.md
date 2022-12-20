@@ -11,13 +11,18 @@ If you want propper force pickups. Get [Astral Pickups]("https://github.com/Astr
 
 ```
 [bool] Item Orbit
-[float] Orbit Speed
-[bool] Item Hidera
+- [float] Orbit Speed
+- [float] Orbit Height
+- [float] Orbit Radius
+
+[bool] Item Hider
+
 [bool] Butter Fingers
 [bool] Select Butter Fingers
+
 [bool] Anti Theft
+
 [bool] Player Head Swarm
-[bool] Toggle Item Mesh
 ```
 </details>
 <br/>
@@ -65,7 +70,7 @@ Basically it checks for the item currently in hand.
 If the item is no longer in your hand but your still "holding" the item.
 It just comes back to your hand.
 
-Credit: WC \\ _1254
+Thanks For The Help: WC \\ _1254
 ```
 </details>
 <br/>
