@@ -64,6 +64,8 @@ Does some funky checks.
 Basically it checks for the item currently in hand.
 If the item is no longer in your hand but your still "holding" the item.
 It just comes back to your hand.
+
+Credit: WC \\ _1254
 ```
 </details>
 <br/>
