@@ -1,4 +1,4 @@
-import os, sys, argparse, time, json, atexit, subprocess
+import os, sys, argparse, time, json, atexit
 
 #region Args
 parser = argparse.ArgumentParser()
@@ -73,8 +73,8 @@ if(args.move):
         fileLoc = input("Drag file here.\n> ")
         saveFile(fileLoc)
         
-    print(f'Moving {settings["LastUsed"]}')
-    os.system(f'adb.exe push {fileLoc} /sdcard/Android/data/com.vrchat.oculus.quest/files/Mods')
+    print(f'Moving {fileLoc}')
+    os.system(f'adb.exe push {fileLoc} ./sdcard/Android/data/com.vrchat.oculus.quest/files/Mods')
 
 if(args.start):
     os.system("adb shell am force-stop com.vrchat.oculus.quest")
