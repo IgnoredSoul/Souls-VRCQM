@@ -10,19 +10,31 @@ If you want propper force pickups. Get [Astral Pickups]("https://github.com/Astr
 <br>
 
 ```
-[bool] Item Orbit
+[List<VRC_Pickups>] cachedList
+[List<VRC_Pickups>] cachedActiveList
+[float] UpdateInterval
+
+Item Orbit:
+- [bool] Item Orbit Toggle
 - [float] Orbit Speed
 - [float] Orbit Height
 - [float] Orbit Radius
 
-[bool] Item Hider
+Item Hider:
+- [bool] Item Hider
 
-[bool] Butter Fingers
-[bool] Select Butter Fingers
+Butter Fingers:
+- [bool] Butter Fingers Toggle
+- [bool] Select Butter Fingers Toggle
 
-[bool] Anti Theft
+Anti Thieft:
+- [bool] Anti Theft Toggle
 
-[bool] Player Head Swarm
+Head Swarm:
+- [bool] Head Swarm Toggle
+
+Flies:
+- [bool] Flies Toggle
 ```
 </details>
 <br/>
