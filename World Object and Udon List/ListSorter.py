@@ -1,4 +1,4 @@
-import os, shutil
+import os, datetime
 
 def split_string_at_words(string) -> list:
     words_to_split:list = [" - GameObjectList", " - UdonKeyList"]
@@ -44,8 +44,12 @@ def save_gameobject_list(input_file: str, output_file: str) -> None:
         '!ftraceLightmaps',
         'Avatar_createdEyeTarget_1',
         'Avatar_createdEyeTarget_2',
+        'DOTween',
         'FpsCounter',
-        'UserInterface'
+        'UserInterface',
+        '_Application',
+        'VRCPlayer',
+        'VRC_OBJECTS'
     ]
 
     with open(input_file, 'r', encoding="UTF-8") as file:
@@ -75,7 +79,8 @@ def save_gameobject_list(input_file: str, output_file: str) -> None:
 
     with open(output_file, 'w', encoding="UTF-8") as file:
         file.write(f"┏{'━' * length}┓\n")
-        file.write(f"┃{center_word('DUMPED BY IGNOREDSOUL', length)}┃\n")
+        dmpText = f'DUMPED BY IGNOREDSOUL - {str(datetime.datetime.now().date().strftime("%d/%m/%Y"))}'
+        file.write(f"┃{center_word(dmpText, length)}┃\n")
         file.write(f"┃{center_word('ACTIVE LIST', length)}┃\n")
         file.write(f"┣{'━' * length}┫\n")
 
@@ -100,7 +105,8 @@ def save_udon_list(input_file: str, output_file: str) -> None:
     length:int = len(get_longest_word(udonlist)) + 2
     with open(output_file, 'w', encoding="UTF-8") as file:
         file.write(f"┏{'━' * length}┓\n")
-        file.write(f"┃{center_word('DUMPED BY IGNOREDSOUL', length)}┃\n")
+        dmpText = f'DUMPED BY IGNOREDSOUL - {str(datetime.datetime.now().date().strftime("%d/%m/%Y"))}'
+        file.write(f"┃{center_word(dmpText, length)}┃\n")
         file.write(f"┃{center_word('UDON KEY LIST', length)}┃\n")
         file.write(f"┣{'━' * length}┫\n")
 
@@ -127,5 +133,3 @@ for file in os.listdir("./Raw"):
         # Sort and save UdonEvents
         elif "udon" in file.lower():
             save_udon_list(f"./Raw/{file}", f"./Worlds/{folder_name}/{file}")
-
-        shutil.move(f"./Raw/{file}", f"./Sorted/{file}")

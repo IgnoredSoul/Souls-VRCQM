@@ -1,0 +1,380 @@
+Object: Back | Key: set
+Object: Back | Key: _onPlayerTriggerEnter
+Object: Hall | Key: set
+Object: Hall | Key: _onPlayerTriggerEnter
+Object: Kitchen | Key: set
+Object: Kitchen | Key: _onPlayerTriggerEnter
+Object: ChicaFailKill | Key: failkillB
+Object: BOX (1) | Key: _onPlayerTriggerEnter
+Object: FreddyButton | Key: ole
+Object: FreddyButton | Key: Count
+Object: FreddyButton | Key: locks
+Object: FreddyButton | Key: text
+Object: FreddyButton | Key: _interact
+Object: FreddyButton | Key: _onVarChange_Count
+Object: FreddyButton | Key: _onPlayerJoined
+Object: Hall | Key: set
+Object: Hall | Key: _onPlayerTriggerEnter
+Object: FoxyHead | Key: _interact
+Object: GoldieCooldown | Key: BonnieTime
+Object: GoldieCooldown | Key: timer
+Object: Door | Key: set
+Object: Door | Key: _onPlayerTriggerEnter
+Object: RoleSync | Key: ON
+Object: RoleSync | Key: OFF
+Object: RoleSync | Key: _onPlayerJoined
+Object: Hall | Key: set
+Object: Hall | Key: _onPlayerTriggerEnter
+Object: Bath | Key: set
+Object: Bath | Key: _onPlayerTriggerEnter
+Object: GlitchTimer | Key: glitch
+Object: NightVeryHard | Key: SetLevel
+Object: NightVeryHard | Key: _interact
+Object: LightsL | Key: power
+Object: LightsL | Key: h
+Object: LightsL | Key: _onVarChange_LeftLightButton
+Object: LightsL | Key: _interact
+Object: FredySongTimer | Key: SingTime
+Object: ChicaCoolDown | Key: BonnieTime
+Object: ChicaCoolDown | Key: timer
+Object: FoxySingCoolDown | Key: SingTime
+Object: ButtonL | Key: LeftDoorSound
+Object: ButtonL | Key: power
+Object: ButtonL | Key: bkill
+Object: ButtonL | Key: ckill
+Object: ButtonL | Key: zkill
+Object: ButtonL | Key: fkill
+Object: ButtonL | Key: _interact
+Object: ButtonL | Key: _onVarChange_LeftDoor
+Object: LightsR | Key: Power
+Object: LightsR | Key: h
+Object: LightsR | Key: _onVarChange_RightLightButton
+Object: LightsR | Key: _interact
+Object: Corner | Key: set
+Object: Corner | Key: _onPlayerTriggerEnter
+Object: GFreddyHead | Key: _interact
+Object: Stage | Key: set
+Object: Stage | Key: _onPlayerTriggerEnter
+Object: Spectate.006 | Key: _interact
+Object: Spectate.005 | Key: Reset
+Object: Spectate.005 | Key: sound
+Object: Spectate.005 | Key: _interact
+Object: Spectate.004 | Key: Reset
+Object: Spectate.004 | Key: Audio
+Object: Spectate.004 | Key: _interact
+Object: Hall | Key: set
+Object: Hall | Key: _onPlayerTriggerEnter
+Object: VCs (6) | Key: y
+Object: VCs (6) | Key: sub
+Object: VCs (6) | Key: add
+Object: VCs (6) | Key: _onPlayerTriggerEnter
+Object: VCs (6) | Key: _onPlayerTriggerExit
+Object: PowerCheck | Key: Power
+Object: PowerCheck | Key: Off
+Object: VCs (1) | Key: yA1
+Object: VCs (1) | Key: yA2
+Object: VCs (1) | Key: yA3
+Object: VCs (1) | Key: sub
+Object: VCs (1) | Key: add
+Object: VCs (1) | Key: _onPlayerTriggerEnter
+Object: VCs (1) | Key: _onPlayerTriggerExit
+Object: BonnieFailKill | Key: failkillB
+Object: MascotTune | Key: noise
+Object: MascotTune | Key: _start
+Object: Cube (1) | Key: start
+Object: Cube (1) | Key: Begin
+Object: Cube (1) | Key: bonniecount
+Object: Cube (1) | Key: chicacount
+Object: Cube (1) | Key: foxycount
+Object: Cube (1) | Key: Singingboi
+Object: Cube (1) | Key: freddycount
+Object: Cube (1) | Key: Spec
+Object: BonnieButton | Key: ole
+Object: BonnieButton | Key: Count
+Object: BonnieButton | Key: locks
+Object: BonnieButton | Key: Text
+Object: BonnieButton | Key: _interact
+Object: BonnieButton | Key: _onVarChange_Count
+Object: BonnieButton | Key: _onPlayerJoined
+Object: Cube (11) | Key: _onPlayerTriggerEnter
+Object: Main | Key: set
+Object: Main | Key: _onPlayerTriggerEnter
+Object: FreddyGone | Key: _onPlayerTriggerEnter
+Object: Corner | Key: set
+Object: Corner | Key: _onPlayerTriggerEnter
+Object: Door | Key: set
+Object: Door | Key: _onPlayerTriggerEnter
+Object: RoleSync (2) | Key: ON
+Object: RoleSync (2) | Key: OFF
+Object: RoleSync (2) | Key: _onPlayerJoined
+Object: Cube (10) | Key: _onPlayerTriggerEnter
+Object: Stage (1) | Key: set
+Object: Stage (1) | Key: _onPlayerTriggerEnter
+Object: ResetTime | Key: reset
+Object: ResetTime | Key: y
+Object: ResetTime | Key: _interact
+Object: Cube (2) | Key: start
+Object: Cube (2) | Key: stop
+Object: Cube (2) | Key: _onPlayerTriggerEnter
+Object: Cube (2) | Key: _onPlayerTriggerExit
+Object: FreddyPowerTimer | Key: timer
+Object: FoxyCoolDown | Key: BonnieTime
+Object: FoxyCoolDown | Key: run
+Object: Back (1) | Key: set
+Object: Back (1) | Key: _onPlayerTriggerEnter
+Object: VCs (2) | Key: yA1
+Object: VCs (2) | Key: yA2
+Object: VCs (2) | Key: yA3
+Object: VCs (2) | Key: sub
+Object: VCs (2) | Key: add
+Object: VCs (2) | Key: _onPlayerTriggerEnter
+Object: VCs (2) | Key: _onPlayerTriggerExit
+Object: Cube (8) | Key: _onPlayerTriggerEnter
+Object: NightNormal | Key: SetLevel
+Object: NightNormal | Key: _interact
+Object: GuardB | Key: B
+Object: GoldieReset | Key: reset
+Object: Circle.001 | Key: _update
+Object: BOOP | Key: boop
+Object: BOOP | Key: _interact
+Object: Phone | Key: mute
+Object: Phone | Key: _interact
+Object: Bath | Key: set
+Object: Bath | Key: _onPlayerTriggerEnter
+Object: JayButtonCheck | Key: _onPlayerJoined
+Object: Scare | Key: set
+Object: Scare | Key: _onPlayerTriggerEnter
+Object: Bath (1) | Key: set
+Object: Bath (1) | Key: _onPlayerTriggerEnter
+Object: Main | Key: set
+Object: Main | Key: _onPlayerTriggerEnter
+Object: FoxyButton | Key: ole
+Object: FoxyButton | Key: Count
+Object: FoxyButton | Key: locks
+Object: FoxyButton | Key: text
+Object: FoxyButton | Key: _interact
+Object: FoxyButton | Key: _onVarChange_Count
+Object: FoxyButton | Key: _onPlayerJoined
+Object: MuteMusic | Key: _interact
+Object: MuteMusic | Key: _onVarChange_Muted
+Object: GoldieFlip | Key: flip
+Object: GoldieFlip | Key: none
+Object: GoldieFlip | Key: If87
+Object: GoldieFlip | Key: summon
+Object: GoldieFlip | Key: Goldie
+Object: GoldieFlip | Key: remove
+Object: CameraButton | Key: noise
+Object: CameraButton | Key: power
+Object: CameraButton | Key: _onVarChange_Monitor
+Object: CameraButton | Key: _start
+Object: CameraButton | Key: _inputJump
+Object: Stage | Key: set
+Object: Stage | Key: _onPlayerTriggerEnter
+Object: ChicaHead | Key: _interact
+Object: RoleSync (4) | Key: ON
+Object: RoleSync (4) | Key: OFF
+Object: RoleSync (4) | Key: _onPlayerJoined
+Object: GuardButton | Key: ole
+Object: GuardButton | Key: Count
+Object: GuardButton | Key: locks
+Object: GuardButton | Key: text
+Object: GuardButton | Key: _interact
+Object: GuardButton | Key: _onVarChange_Count
+Object: GuardButton | Key: _onPlayerJoined
+Object: FreddyHead | Key: _interact
+Object: ButtonR | Key: DoorRTOGGLE
+Object: ButtonR | Key: on
+Object: ButtonR | Key: off
+Object: ButtonR | Key: _interact
+Object: ButtonR | Key: _onPlayerJoined
+Object: VCs (3) | Key: yA1
+Object: VCs (3) | Key: yA2
+Object: VCs (3) | Key: yA3
+Object: VCs (3) | Key: sub
+Object: VCs (3) | Key: add
+Object: VCs (3) | Key: _onPlayerTriggerEnter
+Object: VCs (3) | Key: _onPlayerTriggerExit
+Object: NightHard | Key: SetLevel
+Object: NightHard | Key: _interact
+Object: Corner | Key: set
+Object: Corner | Key: _onPlayerTriggerEnter
+Object: AbortGame | Key: tp
+Object: AbortGame | Key: _interact
+Object: ResetRoles | Key: reset
+Object: ResetRoles | Key: _interact
+Object: ButtonR | Key: LeftDoorSound
+Object: ButtonR | Key: power
+Object: ButtonR | Key: _interact
+Object: ButtonR | Key: _onVarChange_RightDoor
+Object: NightEasy | Key: SetLevel
+Object: NightEasy | Key: _interact
+Object: CheckAmb (1) | Key: add
+Object: CheckAmb (1) | Key: sub
+Object: CheckAmb (1) | Key: _onPlayerTriggerEnter
+Object: CheckAmb (1) | Key: _onPlayerTriggerExit
+Object: RoleSync (3) | Key: ON
+Object: RoleSync (3) | Key: OFF
+Object: RoleSync (3) | Key: _onPlayerJoined
+Object: Sphere.002 | Key: TP
+Object: MMambience | Key: check
+Object: MMambience | Key: _start
+Object: ChicaButton | Key: ole
+Object: ChicaButton | Key: Count
+Object: ChicaButton | Key: locks
+Object: ChicaButton | Key: text
+Object: ChicaButton | Key: _interact
+Object: ChicaButton | Key: _onVarChange_Count
+Object: ChicaButton | Key: _onPlayerJoined
+Object: Power.001 | Key: power1
+Object: Power.001 | Key: PowerEvent
+Object: Power.001 | Key: Drain
+Object: CheckMonitor | Key: Check
+Object: CheckMonitor | Key: Foxy
+Object: CheckMonitor | Key: Freddy
+Object: CheckMonitor | Key: FreddyOff
+Object: CheckMonitor | Key: FoxyOff
+Object: Cube | Key: _start
+Object: FreddyReset | Key: lol
+Object: FreddyReset | Key: on
+Object: FreddyReset | Key: off
+Object: Cube (5) | Key: _onPlayerTriggerEnter
+Object: Cube (5) | Key: _onPlayerTriggerExit
+Object: Plane.024 | Key: LOL
+Object: Plane.024 | Key: on
+Object: Plane.024 | Key: off
+Object: Plane.024 | Key: _interact
+Object: Plane.024 | Key: _onPlayerJoined
+Object: FoxyFailKill | Key: failkillB
+Object: FoxyFailKill | Key: noise
+Object: FoxyFailKill | Key: ser
+Object: FoxyFailKill | Key: pwr
+Object: FoxyFailKill | Key: ser2
+Object: VCs (4) | Key: yA1
+Object: VCs (4) | Key: yA2
+Object: VCs (4) | Key: yA3
+Object: VCs (4) | Key: sub
+Object: VCs (4) | Key: add
+Object: VCs (4) | Key: _onPlayerTriggerEnter
+Object: VCs (4) | Key: _onPlayerTriggerExit
+Object: BonnieHead | Key: _interact
+Object: GameEndCube | Key: tp
+Object: GameEndCube | Key: _interact
+Object: FredySongStop | Key: SingTime
+Object: Cube.007 | Key: _interact
+Object: LightOffice | Key: _start
+Object: KDoor.003 | Key: _interact
+Object: KDoor.002 | Key: _interact
+Object: MonTrack | Key: follow
+Object: Annoyance | Key: _onPlayerTriggerEnter
+Object: Annoyance | Key: _onPlayerTriggerExit
+Object: Power | Key: Add
+Object: Power | Key: Sub
+Object: Power | Key: syncing
+Object: Power | Key: _start
+Object: Power | Key: _onVarChange_Power
+Object: FreddyCoolDown | Key: BonnieTime
+Object: PlaySync | Key: ON
+Object: PlaySync | Key: OFF
+Object: PlaySync | Key: _onPlayerJoined
+Object: GuardKillChica | Key: BonnieKill
+Object: GuardKillChica | Key: tp
+Object: GuardKillChica | Key: night
+Object: Clock | Key: TimeEvent
+Object: Clock | Key: tp
+Object: Kitchen | Key: set
+Object: Kitchen | Key: _onPlayerTriggerEnter
+Object: Cube (4) | Key: start
+Object: Cube (4) | Key: stop
+Object: Cube (4) | Key: _onPlayerTriggerEnter
+Object: Cube (4) | Key: _onPlayerTriggerExit
+Object: GuardKillBonnie | Key: BonnieKill
+Object: GuardKillBonnie | Key: tp
+Object: GuardKillBonnie | Key: night
+Object: Stage | Key: set
+Object: Stage | Key: _onPlayerTriggerEnter
+Object: Closet | Key: set
+Object: Closet | Key: _onPlayerTriggerEnter
+Object: BOX | Key: _onPlayerTriggerEnter
+Object: BonnieCoolDown | Key: BonnieTime
+Object: BonnieCoolDown | Key: timer
+Object: Stage (2) | Key: set
+Object: Stage (2) | Key: _onPlayerTriggerEnter
+Object: Text (1) | Key: set
+Object: Text (1) | Key: owner
+Object: Text (1) | Key: _onPlayerJoined
+Object: Text (1) | Key: _onPlayerLeft
+Object: Plane.023 | Key: LOL
+Object: Plane.023 | Key: on
+Object: Plane.023 | Key: off
+Object: Plane.023 | Key: _interact
+Object: Plane.023 | Key: _onPlayerJoined
+Object: GuardKillFoxy | Key: BonnieKill
+Object: GuardKillFoxy | Key: tp
+Object: GuardKillFoxy | Key: night
+Object: Cube.048 | Key: Yes
+Object: Cube.048 | Key: No
+Object: Cube.048 | Key: _onPlayerJoined
+Object: Door | Key: set
+Object: Door | Key: _onPlayerTriggerEnter
+Object: GuardKillGoldie | Key: BonnieKill
+Object: GuardKillGoldie | Key: tp
+Object: GuardKillGoldie | Key: night
+Object: STIME | Key: AM12
+Object: STIME | Key: AM1
+Object: STIME | Key: AM2
+Object: STIME | Key: AM3
+Object: STIME | Key: AM4
+Object: STIME | Key: AM5
+Object: STIME | Key: TimeSet
+Object: CheckAmb | Key: add
+Object: CheckAmb | Key: sub
+Object: CheckAmb | Key: _onPlayerTriggerEnter
+Object: CheckAmb | Key: _onPlayerTriggerExit
+Object: Cube (9) | Key: _onPlayerTriggerEnter
+Object: Door&Power | Key: PowerDoorL
+Object: Door&Power | Key: PowerDoorR
+Object: FreddyKillTimer | Key: BonnieTime
+Object: Cube (7) | Key: lols
+Object: Cube (7) | Key: _onPlayerTriggerEnter
+Object: Cube (7) | Key: _onPlayerTriggerExit
+Object: AvatarSET | Key: avatarSET
+Object: GuardKillFreddy | Key: BonnieKill
+Object: GuardKillFreddy | Key: tp
+Object: GuardKillFreddy | Key: night
+Object: Main | Key: set
+Object: Main | Key: _onPlayerTriggerEnter
+Object: VCs (5) | Key: y
+Object: VCs (5) | Key: sub
+Object: VCs (5) | Key: add
+Object: VCs (5) | Key: _onPlayerTriggerEnter
+Object: VCs (5) | Key: _onPlayerTriggerExit
+Object: Speakers.001 | Key: _start
+Object: Cube (6) | Key: _onPlayerTriggerEnter
+Object: Cube (6) | Key: _onPlayerTriggerExit
+Object: NightExtreme | Key: SetLevel
+Object: NightExtreme | Key: _interact
+Object: VCs | Key: yA1
+Object: VCs | Key: yA2
+Object: VCs | Key: yA3
+Object: VCs | Key: sub
+Object: VCs | Key: add
+Object: VCs | Key: _onPlayerTriggerEnter
+Object: VCs | Key: _onPlayerTriggerExit
+Object: Door | Key: set
+Object: Door | Key: _onPlayerTriggerEnter
+Object: Stage | Key: set
+Object: Stage | Key: _onPlayerTriggerEnter
+Object: RoleSync (1) | Key: ON
+Object: RoleSync (1) | Key: OFF
+Object: RoleSync (1) | Key: _onPlayerJoined
+Object: VRCWorld | Key: _start
+Object: AvatarPedestal (3) | Key: _interact
+Object: AvatarPedestal (4) | Key: _interact
+Object: AvatarPedestal (2) | Key: _interact
+Object: FREDDYAVI | Key: _interact
+Object: AvatarPedestal | Key: _interact
+Object: GFREDDYAVI | Key: _interact
+Object: BONNIEAVI | Key: _interact
+Object: CHICAAVI | Key: _interact
+Object: AvatarPedestal (1) | Key: _interact
+Object: FOXYAVI | Key: _interact
