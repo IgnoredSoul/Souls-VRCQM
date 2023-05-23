@@ -127,11 +127,11 @@ Loops through the item cache and sets its position to the player with a random o
 <summary>Info</summary>
 <br>
 
-Original creator by `Rafa for pc`
+Original creator by [Rafacasari](https://github.com/Rafacasari/Playspace-Mover)
 
-Quest fixes by `Solexid`
+Quest fixes by [Solexid](https://github.com/Solexid/QuestPlayspaceMover)
 
-Futher improvement and other fixes by `IGNOREDSOUL`
+Futher improvement and other fixes by me
 
 </details>
 
