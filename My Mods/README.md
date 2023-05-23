@@ -1,9 +1,15 @@
-# Note!
+# Item Manipulator | Release 4.1.0
+<details>
+<summary>Info</summary>
+<br>
+
 I wont be adding item crashing and shit like that, player head swarm and item orbit is as far as I will go. 
 
 If you want propper force pickups. Get [Astral Pickups]("https://github.com/Astrum-Project/AstralPickups/blob/master/Orbit.cs")!
 
-# Item Manipulator | Release 4.1.0
+</details>
+
+<br/>
 
 <details>
 <summary>Variables</summary>
@@ -116,14 +122,38 @@ Loops through the item cache and sets its position to the player with a random o
 
 <br/>
 
-# Prime Gaming | Release 2.0.0
+# Quest Playspace Mover | Release 1.0.0
+<details>
+<summary>Info</summary>
+<br>
 
+Original creator by `Rafa for pc`
+
+Quest fixes by `Solexid`
+
+Futher improvement and other fixes by `IGNOREDSOUL`
+
+</details>
+
+<br/>
 <details>
 <summary>Variables</summary>
 <br>
 
 ```
-W.I.P
+- [OVRCameraRig] Camera;
+- [OVRInput.Controller] LastPressed;
+- [Vector3] startingOffset;
+- [Vector3] StartPosition;
+
+- [GameObject] UserInterfaceObj;
+- [int] leftspeed;
+- [int] rightspeed;
+
+- [Sprite] ModIcon;
+
+- [WingMenu] LeftQPM;
+- [WingMenu] RightQPM;
 ```
 
 </details>
@@ -135,7 +165,15 @@ W.I.P
 <br>
 
 ```
-W.I.P
+LoadSpriteFrom64:
+Takes base64 string and converts to a [Texture2D] then to a [Sprite]
+```
+
+```
+HasDoubleClicked:
+Takes the key press's time and compares it to the previous time the key was pressed.
+After, subtract the time now from previous and if its below a float.
+Then the key has been pressed twice
 ```
 
 </details>
